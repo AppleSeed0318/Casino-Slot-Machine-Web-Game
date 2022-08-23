@@ -1,0 +1,39 @@
+{
+  "__version__": "3.0.3",
+  "options": {
+    "web-desktop": {
+      "configID": "ec335b",
+      "services": []
+    },
+    "web-mobile": {
+      "configID": "8143a9",
+      "services": [
+        {
+          "service_id": "235",
+          "service_component_name": "service-analytics",
+          "builder": "C:\\Users\\boog\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+          "enable": false,
+          "params": {
+            "app_id": "667046571",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  },
+  "builder-options": {
+    "configID": "8143a9",
+    "services": [
+      {
+        "service_id": "235",
+        "service_component_name": "service-analytics",
+        "builder": "C:\\Users\\boog\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+        "enable": false,
+        "params": {
+          "app_id": "667046571",
+          "store_id": "H5"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "down_bg",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 29,
+      "height": 148
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 29,
+      "height": 148
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0aa44fbf-728c-4bb8-94dc-e34d57de7c02@6c48a",
+    "packable": true
+  }
+}

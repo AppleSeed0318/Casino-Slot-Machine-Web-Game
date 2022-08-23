@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alarm-active",
+    "atlas": "9c4b59db-fbaa-409b-adc8-12521a5ac639",
+    "rect": {
+      "x": 315,
+      "y": 1,
+      "width": 72,
+      "height": 83
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 72,
+      "height": 83
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "966dde4a-3647-4a47-8b4f-645c2cc61b52@6c48a",
+    "packable": true
+  }
+}

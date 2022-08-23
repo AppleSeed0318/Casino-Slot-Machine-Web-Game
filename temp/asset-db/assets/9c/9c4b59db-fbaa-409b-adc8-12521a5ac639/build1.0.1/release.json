@@ -1,0 +1,51 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "btn-setting",
+            "spriteFrames": [
+                "alarm-active",
+                "9cS1nb+6pAm63IElIaWsY5@1263e",
+                "alarm-default",
+                "9cS1nb+6pAm63IElIaWsY5@913b7",
+                "back-active",
+                "9cS1nb+6pAm63IElIaWsY5@b0ca3",
+                "back-default",
+                "9cS1nb+6pAm63IElIaWsY5@9f0c2",
+                "home-active",
+                "9cS1nb+6pAm63IElIaWsY5@0e911",
+                "home-default",
+                "9cS1nb+6pAm63IElIaWsY5@fc62b",
+                "info-active",
+                "9cS1nb+6pAm63IElIaWsY5@41612",
+                "info-default",
+                "9cS1nb+6pAm63IElIaWsY5@47176",
+                "setting-active",
+                "9cS1nb+6pAm63IElIaWsY5@97b5e",
+                "setting-default",
+                "9cS1nb+6pAm63IElIaWsY5@f140b",
+                "sound-off-active",
+                "9cS1nb+6pAm63IElIaWsY5@73070",
+                "sound-off-default",
+                "9cS1nb+6pAm63IElIaWsY5@c528b",
+                "sound-on-active",
+                "9cS1nb+6pAm63IElIaWsY5@c6a10",
+                "sound-on-default",
+                "9cS1nb+6pAm63IElIaWsY5@d51d6"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

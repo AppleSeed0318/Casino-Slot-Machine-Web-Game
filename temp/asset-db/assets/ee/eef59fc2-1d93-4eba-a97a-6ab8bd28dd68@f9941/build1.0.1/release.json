@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "ee9Z/CHZNOuql6ari9KN1o@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "bg1",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 607,
+                "height": 1080
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 607,
+                "height": 1080
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

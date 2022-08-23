@@ -1,0 +1,11 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "web-desktop": {
+      "resolution": {
+        "designWidth": 600,
+        "designHeight": 1080
+      }
+    }
+  }
+}

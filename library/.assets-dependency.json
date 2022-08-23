@@ -1,0 +1,91 @@
+{
+  "path": {
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-j.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-j.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-k.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-k.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-owl.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-owl.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-q.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-q.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-rabbit.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-rabbit.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wolf.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wolf.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-9.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-9.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-10.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-10.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-a.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-a.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-cat.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-cat.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-deer.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-deer.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wild.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wild.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-bonus.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-bonus.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-cat.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-cat.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-j.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-j.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-owl.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-owl.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wild.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wild.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wolf.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wolf.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-bonus.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-bonus.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-9.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-9.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-10.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-10.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-a.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-a.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-deer.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-deer.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-k.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-k.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-q.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-q.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-rabbit.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-rabbit.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\setting.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\setting.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\btn-setting.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\btn-setting.png"
+    ],
+    "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-x.plist": [
+      "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-x.png"
+    ]
+  }
+}

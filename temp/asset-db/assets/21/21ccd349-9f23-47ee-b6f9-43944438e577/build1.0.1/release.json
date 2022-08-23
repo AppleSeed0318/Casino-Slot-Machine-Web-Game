@@ -1,0 +1,27 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-bonus",
+            "spriteFrames": [
+                "1",
+                "21zNNJnyNH7rb5Q5REOOV3@c30fb",
+                "2",
+                "21zNNJnyNH7rb5Q5REOOV3@c86cc"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

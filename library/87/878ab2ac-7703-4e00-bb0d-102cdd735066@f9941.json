@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Wolf_reels",
+    "atlas": "",
+    "rect": {
+      "x": 14,
+      "y": 25,
+      "width": 354,
+      "height": 361
+    },
+    "offset": {
+      "x": -4.5,
+      "y": -11.5
+    },
+    "originalSize": {
+      "width": 391,
+      "height": 388
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "878ab2ac-7703-4e00-bb0d-102cdd735066@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "b4aOTAhTFOBJK0JkDRNHt2@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "logo",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 264,
+                "height": 264
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 264,
+                "height": 264
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

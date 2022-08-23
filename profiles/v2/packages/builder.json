@@ -1,0 +1,91 @@
+{
+  "__version__": "1.3.2",
+  "log": {
+    "level": 4
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1656710998936": {
+        "id": "1656710998936",
+        "progress": 1,
+        "state": "success",
+        "message": "7-2-2022 05:30 Build success in 34554 ms!",
+        "options": {
+          "name": "Slot Machine",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "7bb19b5f-bf71-4e1a-be86-8a33cdec546f",
+          "scenes": [
+            {
+              "url": "db://assets/scene/1.Login.scene",
+              "uuid": "3969b3aa-6f65-4464-8544-42b11449e87b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scene/2.Main.scene",
+              "uuid": "7bb19b5f-bf71-4e1a-be86-8a33cdec546f",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true,
+                "coreJs": false
+              }
+            },
+            "cocos-service": {
+              "configID": "8143a9",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "C:\\Users\\boog\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+                  "enable": false,
+                  "params": {
+                    "app_id": "667046571",
+                    "store_id": "H5"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "time": "7-2-2022 05:29",
+        "dirty": false
+      }
+    }
+  },
+  "common": {
+    "name": "Slot Machine",
+    "startScene": "7bb19b5f-bf71-4e1a-be86-8a33cdec546f",
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "scenes": [
+      {
+        "url": "db://assets/scene/2.Main.scene",
+        "uuid": "7bb19b5f-bf71-4e1a-be86-8a33cdec546f",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/scene/1.Login.scene",
+        "uuid": "3969b3aa-6f65-4464-8544-42b11449e87b"
+      }
+    ],
+    "skipCompressTexture": false
+  }
+}

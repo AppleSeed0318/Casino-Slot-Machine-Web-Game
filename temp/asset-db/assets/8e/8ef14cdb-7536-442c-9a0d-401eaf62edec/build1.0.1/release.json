@@ -1,0 +1,37 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-rabbit",
+            "spriteFrames": [
+                "1",
+                "8e8UzbdTZELJoNQB6vYu3s@c30fb",
+                "2",
+                "8e8UzbdTZELJoNQB6vYu3s@c86cc",
+                "3",
+                "8e8UzbdTZELJoNQB6vYu3s@e7223",
+                "4",
+                "8e8UzbdTZELJoNQB6vYu3s@a795c",
+                "5",
+                "8e8UzbdTZELJoNQB6vYu3s@e7d45",
+                "6",
+                "8e8UzbdTZELJoNQB6vYu3s@116ec",
+                "7",
+                "8e8UzbdTZELJoNQB6vYu3s@855b3"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

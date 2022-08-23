@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "00a5O3gbNLE4SddzOTvykc@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "axeLeft",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 168,
+                "height": 168
+            },
+            "offset": {
+                "x": -0.5,
+                "y": 1
+            },
+            "originalSize": {
+                "width": 169,
+                "height": 170
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

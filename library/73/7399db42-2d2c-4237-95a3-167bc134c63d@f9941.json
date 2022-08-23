@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plate_freegames",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 314,
+      "height": 35
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 314,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7399db42-2d2c-4237-95a3-167bc134c63d@6c48a",
+    "packable": true
+  }
+}

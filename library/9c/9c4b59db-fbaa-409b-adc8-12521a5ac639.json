@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "btn-setting",
+    "spriteFrames": [
+      "alarm-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@1263e",
+      "alarm-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@913b7",
+      "back-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@b0ca3",
+      "back-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@9f0c2",
+      "home-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@0e911",
+      "home-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@fc62b",
+      "info-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@41612",
+      "info-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@47176",
+      "setting-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@97b5e",
+      "setting-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@f140b",
+      "sound-off-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@73070",
+      "sound-off-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@c528b",
+      "sound-on-active",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@c6a10",
+      "sound-on-default",
+      "9c4b59db-fbaa-409b-adc8-12521a5ac639@d51d6"
+    ]
+  }
+}

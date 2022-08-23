@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reload",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 88,
+      "height": 73
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 73
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ba1e5d6f-c49a-4374-860f-a004707ab41b@6c48a",
+    "packable": true
+  }
+}

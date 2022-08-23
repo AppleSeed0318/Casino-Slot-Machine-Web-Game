@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "87irKsdwNOALsNECzdc1Bm@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "Wolf_reels",
+            "rect": {
+                "x": 14,
+                "y": 25,
+                "width": 354,
+                "height": 361
+            },
+            "offset": {
+                "x": -4.5,
+                "y": -11.5
+            },
+            "originalSize": {
+                "width": 391,
+                "height": 388
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

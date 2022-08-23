@@ -1,0 +1,86 @@
+{
+  "ver": "1.0.6",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "21ccd349-9f23-47ee-b6f9-43944438e577",
+  "files": [
+    ".json",
+    ".plist"
+  ],
+  "subMetas": {
+    "c30fb": {
+      "importer": "sprite-frame",
+      "uuid": "21ccd349-9f23-47ee-b6f9-43944438e577@c30fb",
+      "displayName": "",
+      "id": "c30fb",
+      "name": "1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 91,
+        "height": 76,
+        "rawWidth": 113,
+        "rawHeight": 76,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c5c0370c-e374-4750-a252-9d2dcdd193ca@6c48a",
+        "atlasUuid": "21ccd349-9f23-47ee-b6f9-43944438e577"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c86cc": {
+      "importer": "sprite-frame",
+      "uuid": "21ccd349-9f23-47ee-b6f9-43944438e577@c86cc",
+      "displayName": "",
+      "id": "c86cc",
+      "name": "2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 0,
+        "trimX": 91,
+        "trimY": 0,
+        "width": 91,
+        "height": 76,
+        "rawWidth": 113,
+        "rawHeight": 76,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c5c0370c-e374-4750-a252-9d2dcdd193ca@6c48a",
+        "atlasUuid": "21ccd349-9f23-47ee-b6f9-43944438e577"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "icon-bonus.png",
+    "format": 3,
+    "uuid": "21ccd349-9f23-47ee-b6f9-43944438e577",
+    "textureUuid": "c5c0370c-e374-4750-a252-9d2dcdd193ca@6c48a"
+  }
+}

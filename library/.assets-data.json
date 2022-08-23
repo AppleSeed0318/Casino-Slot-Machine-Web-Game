@@ -1,0 +1,1550 @@
+{
+  "c31182ea-a362-409b-a56c-0a308e0f6152": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "c0478642-de28-490b-a886-45b138ab79c2": {
+    "url": "db://assets/resources/image",
+    "value": {}
+  },
+  "c5d71e0c-22c3-4e41-a36c-576910e6c4d4": {
+    "url": "db://assets/resources/image/axe.png",
+    "value": {}
+  },
+  "eef59fc2-1d93-4eba-a97a-6ab8bd28dd68": {
+    "url": "db://assets/resources/image/bg1.jpg",
+    "value": {}
+  },
+  "a6c2ceb4-4dca-4da1-a45a-7fd1c93a07a1": {
+    "url": "db://assets/resources/image/bg_slot.png",
+    "value": {}
+  },
+  "82c5d813-df14-4556-bb71-b5a6278ab61e": {
+    "url": "db://assets/resources/image/corner_down.png",
+    "value": {}
+  },
+  "831e4949-1e70-4ba2-91f5-a6f24fe117bb": {
+    "url": "db://assets/resources/image/corner_down1.png",
+    "value": {}
+  },
+  "205ab6c2-f464-4715-b46f-1f25c9393a95": {
+    "url": "db://assets/resources/image/corner_up.png",
+    "value": {}
+  },
+  "a8efee20-fce5-4352-8fe3-a8baf8d24738": {
+    "url": "db://assets/resources/image/corner_up1.png",
+    "value": {}
+  },
+  "0aa44fbf-728c-4bb8-94dc-e34d57de7c02": {
+    "url": "db://assets/resources/image/down_bg.png",
+    "value": {}
+  },
+  "9a4ba90c-f172-4473-b044-eb99f5b9555e": {
+    "url": "db://assets/resources/image/font",
+    "value": {}
+  },
+  "d40ce75e-1448-46d0-9298-d346037134cc": {
+    "url": "db://assets/resources/image/frame",
+    "value": {}
+  },
+  "b8705aeb-66a0-4835-b5eb-6d7cc93fbf12": {
+    "url": "db://assets/resources/image/frame.png",
+    "value": {}
+  },
+  "9197ecd0-e841-4470-b40a-a984384857bd": {
+    "url": "db://assets/resources/image/frame1.png",
+    "value": {}
+  },
+  "f2b17a6e-ebdb-4d53-b7af-9144053b682d": {
+    "url": "db://assets/resources/image/frame2.png",
+    "value": {}
+  },
+  "2d1b7d15-1caf-4e92-a76e-67959f21f56d": {
+    "url": "db://assets/resources/image/icons",
+    "value": {}
+  },
+  "6df5514c-2919-4133-9e8a-836146acbdd3": {
+    "url": "db://assets/resources/image/info",
+    "value": {}
+  },
+  "c0a9740a-4de5-4149-a085-30680c8e1a1c": {
+    "url": "db://assets/resources/image/info.jpg",
+    "value": {}
+  },
+  "cd217f25-b2ec-4c26-a729-7c25211ce9dd": {
+    "url": "db://assets/resources/image/loading.png",
+    "value": {}
+  },
+  "b468e4c0-8531-4e04-92b4-2640d1347b76": {
+    "url": "db://assets/resources/image/logo.png",
+    "value": {}
+  },
+  "ee11095e-2010-4dc4-b17f-51c95d89e343": {
+    "url": "db://assets/resources/image/minigame1",
+    "value": {}
+  },
+  "d27c7b6a-3692-44a2-9783-f5b7ddbd6dbe": {
+    "url": "db://assets/resources/image/minigame2",
+    "value": {}
+  },
+  "9fc519eb-dbc6-4a84-9aab-c515222586a5": {
+    "url": "db://assets/resources/image/numb.png",
+    "value": {}
+  },
+  "7399db42-2d2c-4237-95a3-167bc134c63d": {
+    "url": "db://assets/resources/image/plate_freegames.png",
+    "value": {}
+  },
+  "5729b8c6-9032-4c05-bcf3-65bb8eb15f6c": {
+    "url": "db://assets/resources/image/plate_ways.png",
+    "value": {}
+  },
+  "b52eab4a-d1e1-40a5-a56c-7603f9aa007e": {
+    "url": "db://assets/resources/image/shadow.jpg",
+    "value": {}
+  },
+  "f4267d20-e63a-4b91-a2e0-0d4e6bb69fd3": {
+    "url": "db://assets/resources/image/Win_animation",
+    "value": {}
+  },
+  "878ab2ac-7703-4e00-bb0d-102cdd735066": {
+    "url": "db://assets/resources/image/Wolf_reels.png",
+    "value": {}
+  },
+  "33c92c87-6e1a-4ac6-a65c-3a25b42b76d7": {
+    "url": "db://assets/resources/image/X",
+    "value": {}
+  },
+  "66b5700c-9285-4929-85f9-0264e29697da": {
+    "url": "db://assets/resources/image/font/tt0007m.ttf",
+    "value": {}
+  },
+  "2d9a5459-a102-4f4d-a30c-3feca0842cc6": {
+    "url": "db://assets/resources/image/frame/1.png",
+    "value": {}
+  },
+  "94d270de-53ce-4f83-9ca2-d1d599de6cce": {
+    "url": "db://assets/resources/image/frame/2.png",
+    "value": {}
+  },
+  "433cb7a4-0033-49da-ab29-c44ac6103080": {
+    "url": "db://assets/resources/image/frame/3.png",
+    "value": {}
+  },
+  "1d86dab5-3e9f-4c1b-8613-603c5f09c4d4": {
+    "url": "db://assets/resources/image/frame/4.png",
+    "value": {}
+  },
+  "c1b4054f-629b-42e3-9b67-cf79a5c83e61": {
+    "url": "db://assets/resources/image/frame/5.png",
+    "value": {}
+  },
+  "b3634281-b2ce-4ec1-b088-f861fcdd9367": {
+    "url": "db://assets/resources/image/frame/6.png",
+    "value": {}
+  },
+  "355fde40-46cb-41c3-9e3f-ffa164fe1427": {
+    "url": "db://assets/resources/image/icons/10",
+    "value": {}
+  },
+  "7f15cf00-8734-4378-b712-3b4cd9f8b1dc": {
+    "url": "db://assets/resources/image/icons/9",
+    "value": {}
+  },
+  "ac848aac-e391-4ebe-a023-b10907d40244": {
+    "url": "db://assets/resources/image/icons/a",
+    "value": {}
+  },
+  "c839b479-4973-48e1-8c12-e0e73d5d86ff": {
+    "url": "db://assets/resources/image/icons/bonus",
+    "value": {}
+  },
+  "6162bade-1f66-4020-84bb-067488e80c8a": {
+    "url": "db://assets/resources/image/icons/cat",
+    "value": {}
+  },
+  "31d1d22f-530e-41e1-86de-b0c39336a80e": {
+    "url": "db://assets/resources/image/icons/deer",
+    "value": {}
+  },
+  "316c9d43-7a14-4f97-8f38-93fdcdd6f4e1": {
+    "url": "db://assets/resources/image/icons/J",
+    "value": {}
+  },
+  "fce0554b-bc90-4d07-aa68-90b230ed64a8": {
+    "url": "db://assets/resources/image/icons/K",
+    "value": {}
+  },
+  "0a4baeae-05ed-44d2-8875-251eae13471b": {
+    "url": "db://assets/resources/image/icons/owl",
+    "value": {}
+  },
+  "3df7e728-b37a-4469-9357-23bbea015dae": {
+    "url": "db://assets/resources/image/icons/q",
+    "value": {}
+  },
+  "2a7f0ca8-1ab6-4971-8f83-eaf1531e4654": {
+    "url": "db://assets/resources/image/icons/rabbit",
+    "value": {}
+  },
+  "1f7ceea1-c968-4427-bcc2-50f8895f2fab": {
+    "url": "db://assets/resources/image/icons/wild",
+    "value": {}
+  },
+  "b91148f1-1f17-41d5-a40d-5dad6135527e": {
+    "url": "db://assets/resources/image/icons/wolf",
+    "value": {}
+  },
+  "4e11b23e-0e0b-499c-bcf3-36e71a29b5a3": {
+    "url": "db://assets/resources/image/info/1.png",
+    "value": {}
+  },
+  "f4c1d492-b07e-4aeb-bfd1-0ebdee043014": {
+    "url": "db://assets/resources/image/info/2.png",
+    "value": {}
+  },
+  "6d7ccba2-e3ba-4d3b-8297-4e6fa6121722": {
+    "url": "db://assets/resources/image/info/3.png",
+    "value": {}
+  },
+  "e43adbb3-58d9-421d-897c-5c7e6fe837f4": {
+    "url": "db://assets/resources/image/info/4.png",
+    "value": {}
+  },
+  "4f4189e5-904a-4ee1-b4ad-854af65f3c15": {
+    "url": "db://assets/resources/image/info/5.png",
+    "value": {}
+  },
+  "6b74a301-b76b-45ce-a9cd-a307c59673a8": {
+    "url": "db://assets/resources/image/info/6.png",
+    "value": {}
+  },
+  "9595dcf8-d30c-4fdd-92ec-d7105c52d3ea": {
+    "url": "db://assets/resources/image/info/arrow.png",
+    "value": {}
+  },
+  "5a5971f5-9c58-40ea-82cd-019939e9f132": {
+    "url": "db://assets/resources/image/info/bg.png",
+    "value": {}
+  },
+  "a02203f9-3cc1-4895-a06c-05332dc7569f": {
+    "url": "db://assets/resources/image/minigame1/bg3.jpg",
+    "value": {}
+  },
+  "fcaf5c16-5d00-4943-91da-e8406a19ae1e": {
+    "url": "db://assets/resources/image/minigame1/bg_light.png",
+    "value": {}
+  },
+  "607313e7-a45b-4ef4-989e-c5281461d396": {
+    "url": "db://assets/resources/image/minigame1/bg_light1.png",
+    "value": {}
+  },
+  "a2569d7c-6c4f-49c5-a1d9-eb4199d0587c": {
+    "url": "db://assets/resources/image/minigame1/big_flag.png",
+    "value": {}
+  },
+  "db54aac9-a8ea-419a-aa81-d4eabe25753e": {
+    "url": "db://assets/resources/image/minigame1/big_flag1.png",
+    "value": {}
+  },
+  "50638c65-22c6-4989-adca-e75e70a1b52e": {
+    "url": "db://assets/resources/image/minigame1/f_blue.png",
+    "value": {}
+  },
+  "5753854f-d01d-4c66-9a84-f19ef746aa1d": {
+    "url": "db://assets/resources/image/minigame1/f_blue1.png",
+    "value": {}
+  },
+  "b681732b-7417-4502-bb46-fa73ff77fcd4": {
+    "url": "db://assets/resources/image/minigame1/f_green.png",
+    "value": {}
+  },
+  "89c388b5-b966-4ea7-8492-4934ae52b253": {
+    "url": "db://assets/resources/image/minigame1/f_green1.png",
+    "value": {}
+  },
+  "bd4b61aa-e1fe-4374-ba71-63fec4d45ef5": {
+    "url": "db://assets/resources/image/minigame1/f_heavy_blue.png",
+    "value": {}
+  },
+  "06cceb97-348a-49f1-8530-1daaedbbee2d": {
+    "url": "db://assets/resources/image/minigame1/f_heavy_blue1.png",
+    "value": {}
+  },
+  "b119f388-592e-4e1f-9c50-afa425dbec2f": {
+    "url": "db://assets/resources/image/minigame1/f_red.png",
+    "value": {}
+  },
+  "a60c3260-375a-44b5-86a8-db960ce4999a": {
+    "url": "db://assets/resources/image/minigame1/f_red1.png",
+    "value": {}
+  },
+  "54b4e22e-bbfc-4d84-887e-52a8ff3b0c8a": {
+    "url": "db://assets/resources/image/minigame1/f_yellow.png",
+    "value": {}
+  },
+  "103f6486-939e-4145-a936-3a57e83388c0": {
+    "url": "db://assets/resources/image/minigame1/f_yellow1.png",
+    "value": {}
+  },
+  "df12dab3-cb92-4d1a-9f92-fa1817228c86": {
+    "url": "db://assets/resources/image/minigame1/light",
+    "value": {}
+  },
+  "e862fafb-434f-478f-81a7-85fbb30edfc5": {
+    "url": "db://assets/resources/image/minigame1/plate.png",
+    "value": {}
+  },
+  "b77952a3-f0b7-49a8-a40a-a66056d08f5d": {
+    "url": "db://assets/resources/image/minigame1/txt_cong.png",
+    "value": {}
+  },
+  "6fb69e50-1f35-4c35-ae36-ff51ee8bef2a": {
+    "url": "db://assets/resources/image/minigame1/wooden_plank.png",
+    "value": {}
+  },
+  "e0227195-2425-437c-be54-60dfbcabdb53": {
+    "url": "db://assets/resources/image/minigame2/bg1.png",
+    "value": {}
+  },
+  "e3b53168-2567-465d-969e-5f21a9c7f4aa": {
+    "url": "db://assets/resources/image/minigame2/bg2.jpg",
+    "value": {}
+  },
+  "50eb388f-dd0a-4b16-ac52-7a14a5ee4186": {
+    "url": "db://assets/resources/image/minigame2/big_fireball",
+    "value": {}
+  },
+  "c9db6374-4e76-4cc5-80fc-4baa4ed2fa97": {
+    "url": "db://assets/resources/image/minigame2/fire.png",
+    "value": {}
+  },
+  "62087fb2-e180-47fd-9347-2a3ec1136e13": {
+    "url": "db://assets/resources/image/minigame2/frame.png",
+    "value": {}
+  },
+  "d1cfe634-19a8-4992-a594-fa9204665a4e": {
+    "url": "db://assets/resources/image/minigame2/frame_blue",
+    "value": {}
+  },
+  "c3c3b4e9-dd3f-4997-8078-2fe0214db1ec": {
+    "url": "db://assets/resources/image/minigame2/ic_lock.png",
+    "value": {}
+  },
+  "8d172a27-8f2a-4f86-b99c-4484a41dcf7f": {
+    "url": "db://assets/resources/image/minigame2/jackpot.png",
+    "value": {}
+  },
+  "c17a0c4d-7553-42af-b675-2b094ae60feb": {
+    "url": "db://assets/resources/image/minigame2/light",
+    "value": {}
+  },
+  "f1dd4f85-059f-476f-98ba-e24687129cd1": {
+    "url": "db://assets/resources/image/minigame2/light.png",
+    "value": {}
+  },
+  "a7e5481a-5351-4e70-a2bb-3524b385d41f": {
+    "url": "db://assets/resources/image/minigame2/light_line.png",
+    "value": {}
+  },
+  "0b047e73-b70f-43e5-8dcd-9fea15884148": {
+    "url": "db://assets/resources/image/minigame2/line.png",
+    "value": {}
+  },
+  "0119743d-2ffc-4e4b-b898-9f00d4d4f243": {
+    "url": "db://assets/resources/image/minigame2/mini fireball",
+    "value": {}
+  },
+  "0a0c9f2b-7fe2-44e8-9b00-06e42ae6698c": {
+    "url": "db://assets/resources/image/minigame2/particle.png",
+    "value": {}
+  },
+  "8a392945-76bf-445b-bb16-9fbb8dca3d26": {
+    "url": "db://assets/resources/image/minigame2/up_panel",
+    "value": {}
+  },
+  "0ca77369-3c65-4aba-a47b-d08e8805a67d": {
+    "url": "db://assets/resources/image/minigame2/winner",
+    "value": {}
+  },
+  "ec565c82-300b-49c5-a054-3a66b449cfa1": {
+    "url": "db://assets/resources/image/Win_animation/big_win_animations.jpg",
+    "value": {}
+  },
+  "98f0f85e-5944-4135-b9ee-0132b67f3dad": {
+    "url": "db://assets/resources/image/Win_animation/big_win_animations_2.jpg",
+    "value": {}
+  },
+  "949ff983-2e44-4cf3-91cf-fd809b391910": {
+    "url": "db://assets/resources/image/Win_animation/Text",
+    "value": {}
+  },
+  "f2d61f74-aeb8-4070-9939-f6e4ef871e88": {
+    "url": "db://assets/resources/image/X/1.png",
+    "value": {}
+  },
+  "aeef50b5-f268-4788-afca-6f6ca310a39d": {
+    "url": "db://assets/resources/image/X/10.png",
+    "value": {}
+  },
+  "5ab4d353-9ae0-4f8e-9a71-9af3540bbdf4": {
+    "url": "db://assets/resources/image/X/15.png",
+    "value": {}
+  },
+  "5858c413-2553-4118-a0b1-61aaa5fdc437": {
+    "url": "db://assets/resources/image/X/2.png",
+    "value": {}
+  },
+  "092bf07b-be5a-42f0-abf8-5eef513c2569": {
+    "url": "db://assets/resources/image/X/25.png",
+    "value": {}
+  },
+  "5c93641d-6099-4b16-82c1-cb267b8df372": {
+    "url": "db://assets/resources/image/X/3.png",
+    "value": {}
+  },
+  "0895f852-c6dd-41b2-87f0-d5e1f64db0cc": {
+    "url": "db://assets/resources/image/X/4.png",
+    "value": {}
+  },
+  "c5e89bb2-5d51-430c-ac45-c0dd617bc09d": {
+    "url": "db://assets/resources/image/X/5.png",
+    "value": {}
+  },
+  "68f9dd14-9ce0-4d76-85ca-b5d977eddc79": {
+    "url": "db://assets/resources/image/X/50.png",
+    "value": {}
+  },
+  "b1a1fc6e-67ef-456c-9e47-f915f40de9cb": {
+    "url": "db://assets/resources/image/X/8.png",
+    "value": {}
+  },
+  "0c86a62a-f573-46c5-be52-cf1c34214d4b": {
+    "url": "db://assets/resources/image/X/mini.png",
+    "value": {}
+  },
+  "d555b98e-3af2-4e1a-b0e0-043939dbcda9": {
+    "url": "db://assets/resources/image/X/shadow.png",
+    "value": {}
+  },
+  "f0fb2ff7-11a6-4e2f-87ec-39ef15f5bb80": {
+    "url": "db://assets/resources/image/icons/10/1.png",
+    "value": {}
+  },
+  "155f5791-52de-4660-be83-59c0436896d3": {
+    "url": "db://assets/resources/image/icons/10/2.png",
+    "value": {}
+  },
+  "ded93373-5a95-4aed-bfed-b9c355cf0790": {
+    "url": "db://assets/resources/image/icons/10/3.png",
+    "value": {}
+  },
+  "e4acbc98-eb3e-4e52-abe5-87c809f3ff60": {
+    "url": "db://assets/resources/image/icons/10/4.png",
+    "value": {}
+  },
+  "583897a7-2af9-4a5e-a18d-b53b68c0265a": {
+    "url": "db://assets/resources/image/icons/10/5.png",
+    "value": {}
+  },
+  "51ed0ef9-9798-40d6-a8a1-c37ea4327188": {
+    "url": "db://assets/resources/image/icons/10/6.png",
+    "value": {}
+  },
+  "337b7732-1fbc-4e4a-b8ef-0d4eb2ba7582": {
+    "url": "db://assets/resources/image/icons/10/7.png",
+    "value": {}
+  },
+  "7b79c65a-906d-46d5-8b59-5a84755ec847": {
+    "url": "db://assets/resources/image/icons/10/8.png",
+    "value": {}
+  },
+  "8bca399a-6188-40bf-bb2a-a529a6eafb23": {
+    "url": "db://assets/resources/image/icons/9/1.png",
+    "value": {}
+  },
+  "8fd89c05-7b09-46a9-9371-665e5cff6226": {
+    "url": "db://assets/resources/image/icons/9/2.png",
+    "value": {}
+  },
+  "7fc2723f-89ee-4416-8447-68b3f4baf25f": {
+    "url": "db://assets/resources/image/icons/9/3.png",
+    "value": {}
+  },
+  "82693b0d-a636-4cd2-8ff8-8b4140b6666b": {
+    "url": "db://assets/resources/image/icons/9/4.png",
+    "value": {}
+  },
+  "d07a8e1c-dc4f-4b89-94d3-515a4df472f3": {
+    "url": "db://assets/resources/image/icons/9/5.png",
+    "value": {}
+  },
+  "0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327": {
+    "url": "db://assets/resources/image/icons/9/6.png",
+    "value": {}
+  },
+  "d3a08280-6ee1-47e8-9294-989767963ae1": {
+    "url": "db://assets/resources/image/icons/9/7.png",
+    "value": {}
+  },
+  "df46b76a-2ba6-47b5-bc5a-775cd3dd78c1": {
+    "url": "db://assets/resources/image/icons/a/1.png",
+    "value": {}
+  },
+  "0898599b-4b29-44fb-8183-bde4237f09b3": {
+    "url": "db://assets/resources/image/icons/a/2.png",
+    "value": {}
+  },
+  "6ebbc6c5-02f4-48cd-a5d8-c36e1190d2dd": {
+    "url": "db://assets/resources/image/icons/a/3.png",
+    "value": {}
+  },
+  "33fe4f7c-a420-4b62-bdb5-72b9d4ffa3b4": {
+    "url": "db://assets/resources/image/icons/a/4.png",
+    "value": {}
+  },
+  "4d6c288f-a842-4d25-8484-c992e00b5eef": {
+    "url": "db://assets/resources/image/icons/a/5.png",
+    "value": {}
+  },
+  "28367a86-481b-414a-bc2f-050af8b649cc": {
+    "url": "db://assets/resources/image/icons/a/6.png",
+    "value": {}
+  },
+  "2daa01b4-2530-4f48-bb92-86161a055eb3": {
+    "url": "db://assets/resources/image/icons/a/7.png",
+    "value": {}
+  },
+  "83488ac7-a95c-4ed2-8967-7ed745bf4059": {
+    "url": "db://assets/resources/image/icons/a/8.png",
+    "value": {}
+  },
+  "35ae2c12-bd95-4c67-9e04-5302a57b3b4e": {
+    "url": "db://assets/resources/image/icons/a/9.png",
+    "value": {}
+  },
+  "5a24d585-40ba-47b1-af27-bebcdb689d53": {
+    "url": "db://assets/resources/image/icons/bonus/1.png",
+    "value": {}
+  },
+  "a8fe46c5-5bb6-4aaa-ab3c-84a1e15b6346": {
+    "url": "db://assets/resources/image/icons/bonus/2.png",
+    "value": {}
+  },
+  "3d9b1050-bab9-472d-ad6a-dcf58bd8fa6e": {
+    "url": "db://assets/resources/image/icons/cat/1.png",
+    "value": {}
+  },
+  "b8ddaec6-0ace-44d1-806c-9ae408114f25": {
+    "url": "db://assets/resources/image/icons/cat/10.png",
+    "value": {}
+  },
+  "c84c159a-30b5-458a-9b44-5358864ef26c": {
+    "url": "db://assets/resources/image/icons/cat/2.png",
+    "value": {}
+  },
+  "b487eed8-f25f-4db0-9c40-b5ef0adbfad3": {
+    "url": "db://assets/resources/image/icons/cat/3.png",
+    "value": {}
+  },
+  "e6c2ea9d-99a9-4ffb-a2d0-75d4e6979bd9": {
+    "url": "db://assets/resources/image/icons/cat/4.png",
+    "value": {}
+  },
+  "9975f27e-0f42-4e8a-95fd-fd3acc6cc114": {
+    "url": "db://assets/resources/image/icons/cat/5.png",
+    "value": {}
+  },
+  "c489d979-0e38-463a-853f-b5fab0579a4f": {
+    "url": "db://assets/resources/image/icons/cat/6.png",
+    "value": {}
+  },
+  "1d4764e3-08ec-44e2-88d0-1ff927dfb4e6": {
+    "url": "db://assets/resources/image/icons/cat/7.png",
+    "value": {}
+  },
+  "a9d3a58c-572a-4650-a9db-8050a3e93c5b": {
+    "url": "db://assets/resources/image/icons/cat/8.png",
+    "value": {}
+  },
+  "eae90d17-08d8-44c6-9f2c-59d377311cdc": {
+    "url": "db://assets/resources/image/icons/cat/9.png",
+    "value": {}
+  },
+  "8da51b62-b314-43cc-9d86-442fc9b36176": {
+    "url": "db://assets/resources/image/icons/deer/1.png",
+    "value": {}
+  },
+  "0efc2c02-8fae-4fef-8374-edb622dd0539": {
+    "url": "db://assets/resources/image/icons/deer/2.png",
+    "value": {}
+  },
+  "6668be1c-5bf8-485b-b04f-2d0c6c93adf5": {
+    "url": "db://assets/resources/image/icons/deer/3.png",
+    "value": {}
+  },
+  "4e767f9c-4ff6-4367-af7c-34de185d7a46": {
+    "url": "db://assets/resources/image/icons/deer/4.png",
+    "value": {}
+  },
+  "d0fd694d-c366-4f41-b680-0f01bef9b53f": {
+    "url": "db://assets/resources/image/icons/deer/5.png",
+    "value": {}
+  },
+  "66cb6b1c-c6ae-40a6-9779-20f16c288ff0": {
+    "url": "db://assets/resources/image/icons/deer/6.png",
+    "value": {}
+  },
+  "d9c93661-018f-4a4e-9147-463caff340df": {
+    "url": "db://assets/resources/image/icons/deer/7.png",
+    "value": {}
+  },
+  "32e0685f-2144-44c2-ae2d-dd724239be92": {
+    "url": "db://assets/resources/image/icons/deer/8.png",
+    "value": {}
+  },
+  "9e8b4b72-9de9-4989-9d05-8db4beb35f72": {
+    "url": "db://assets/resources/image/icons/deer/9.png",
+    "value": {}
+  },
+  "5c501c0c-01d5-4a50-a146-419e99241053": {
+    "url": "db://assets/resources/image/icons/J/1.png",
+    "value": {}
+  },
+  "075b54e1-c68d-42a5-8030-5cc8e3db8e51": {
+    "url": "db://assets/resources/image/icons/J/10.png",
+    "value": {}
+  },
+  "b136d211-a1d0-4268-a35a-cde227e2bc8c": {
+    "url": "db://assets/resources/image/icons/J/11.png",
+    "value": {}
+  },
+  "43e0edd0-6b07-470e-bc0c-3ad1f87200b9": {
+    "url": "db://assets/resources/image/icons/J/12.png",
+    "value": {}
+  },
+  "d726d4a0-3b7e-4a48-8c6f-eb754f5819ed": {
+    "url": "db://assets/resources/image/icons/J/13.png",
+    "value": {}
+  },
+  "31a7d01e-c411-4f3d-9258-bee4f72cd51e": {
+    "url": "db://assets/resources/image/icons/J/14.png",
+    "value": {}
+  },
+  "39a4828f-4625-49a9-aa1c-f76aac24f1ca": {
+    "url": "db://assets/resources/image/icons/J/15.png",
+    "value": {}
+  },
+  "543847a2-8653-47d0-8091-6fb66abfa197": {
+    "url": "db://assets/resources/image/icons/J/2.png",
+    "value": {}
+  },
+  "393c19fb-e249-4448-ba20-05fdf5771d41": {
+    "url": "db://assets/resources/image/icons/J/4.png",
+    "value": {}
+  },
+  "918bbe91-ffe9-409c-bb2b-1214206359da": {
+    "url": "db://assets/resources/image/icons/J/5.png",
+    "value": {}
+  },
+  "0f278548-92a9-451b-85c4-d4a5a8b24e4c": {
+    "url": "db://assets/resources/image/icons/J/6.png",
+    "value": {}
+  },
+  "13bb9a53-3338-41a8-8b7b-a2e8256193fb": {
+    "url": "db://assets/resources/image/icons/J/7.png",
+    "value": {}
+  },
+  "139d6d23-579b-4ad5-b1c1-ef8c5a4ae911": {
+    "url": "db://assets/resources/image/icons/J/8.png",
+    "value": {}
+  },
+  "9dd0740c-3d4c-4f1e-a067-3b77b3e6dd08": {
+    "url": "db://assets/resources/image/icons/J/9.png",
+    "value": {}
+  },
+  "0e042321-d780-482b-8cee-7e0bae373039": {
+    "url": "db://assets/resources/image/icons/J/Thumbs.db",
+    "value": {}
+  },
+  "8b8150e9-9677-4e79-8875-3fd1dfadc629": {
+    "url": "db://assets/resources/image/icons/K/1.png",
+    "value": {}
+  },
+  "d02c06c0-c808-48ae-b1bc-0c791e32444f": {
+    "url": "db://assets/resources/image/icons/K/2.png",
+    "value": {}
+  },
+  "5e683abe-2ba4-4155-abbd-106575193d4b": {
+    "url": "db://assets/resources/image/icons/K/3.png",
+    "value": {}
+  },
+  "7e1b423b-f523-4b33-b397-567db510f9b8": {
+    "url": "db://assets/resources/image/icons/K/4.png",
+    "value": {}
+  },
+  "d611fb2b-2e99-47f5-8d32-deb2523b954e": {
+    "url": "db://assets/resources/image/icons/K/5.png",
+    "value": {}
+  },
+  "30088381-bc10-4607-89d1-f6c00af193ea": {
+    "url": "db://assets/resources/image/icons/K/6.png",
+    "value": {}
+  },
+  "3681d8b9-33a0-4095-beb6-5b7d576abcc6": {
+    "url": "db://assets/resources/image/icons/K/7.png",
+    "value": {}
+  },
+  "99ef4726-811e-4d40-94d3-f14da7765070": {
+    "url": "db://assets/resources/image/icons/K/8.png",
+    "value": {}
+  },
+  "b218e0ca-c4ff-4f74-9a55-6bf43dd09964": {
+    "url": "db://assets/resources/image/icons/owl/1.png",
+    "value": {}
+  },
+  "50f1c1a6-e04b-42d8-ab59-870cff0914bc": {
+    "url": "db://assets/resources/image/icons/owl/2.png",
+    "value": {}
+  },
+  "d8f3992c-68de-49f5-a4c1-d690a139322b": {
+    "url": "db://assets/resources/image/icons/owl/3.png",
+    "value": {}
+  },
+  "59d30055-eb51-4f72-b724-95d0373d9fef": {
+    "url": "db://assets/resources/image/icons/owl/4.png",
+    "value": {}
+  },
+  "8b2919e8-3847-4c70-9676-e57a2138bfe3": {
+    "url": "db://assets/resources/image/icons/owl/5.png",
+    "value": {}
+  },
+  "31a7c52e-7283-4120-ae10-c08bc9bb37ea": {
+    "url": "db://assets/resources/image/icons/owl/6.png",
+    "value": {}
+  },
+  "8ef60903-e85e-4569-b67b-b117968f990e": {
+    "url": "db://assets/resources/image/icons/owl/7.png",
+    "value": {}
+  },
+  "db9e6562-bc9e-49c5-b534-a54302f2cc69": {
+    "url": "db://assets/resources/image/icons/owl/8.png",
+    "value": {}
+  },
+  "d07de1a7-95f7-421c-838a-2ff27712c429": {
+    "url": "db://assets/resources/image/icons/q/1.png",
+    "value": {}
+  },
+  "c9befab1-55dc-40bb-bb82-678187f6177e": {
+    "url": "db://assets/resources/image/icons/q/2.png",
+    "value": {}
+  },
+  "96f3d6c3-478e-4db9-a6a9-212832af7c77": {
+    "url": "db://assets/resources/image/icons/q/3.png",
+    "value": {}
+  },
+  "ba888db4-3c20-4eca-9c04-4dc4ce27ab7b": {
+    "url": "db://assets/resources/image/icons/q/4.png",
+    "value": {}
+  },
+  "40a42b3e-a33a-4583-99e7-cef5c55ed690": {
+    "url": "db://assets/resources/image/icons/q/5.png",
+    "value": {}
+  },
+  "d28beb1f-a6f7-4e72-8b67-6098addafa3d": {
+    "url": "db://assets/resources/image/icons/q/6.png",
+    "value": {}
+  },
+  "7f38de11-869a-433d-980a-4a73ab524c51": {
+    "url": "db://assets/resources/image/icons/q/7.png",
+    "value": {}
+  },
+  "2450e035-e9de-43a0-afa0-54480a013b59": {
+    "url": "db://assets/resources/image/icons/rabbit/1.png",
+    "value": {}
+  },
+  "82cb842b-9e15-4dcc-84fd-58c6fbf3d0f2": {
+    "url": "db://assets/resources/image/icons/rabbit/2.png",
+    "value": {}
+  },
+  "a0308df4-89a4-4a70-8208-ae8040dbbd36": {
+    "url": "db://assets/resources/image/icons/rabbit/3.png",
+    "value": {}
+  },
+  "5290c932-72ca-4b18-8acb-941dbcf153fa": {
+    "url": "db://assets/resources/image/icons/rabbit/4.png",
+    "value": {}
+  },
+  "be7240fb-a4ac-4a73-9bca-1ffda5f49532": {
+    "url": "db://assets/resources/image/icons/rabbit/5.png",
+    "value": {}
+  },
+  "d91438ce-8137-4ff0-bcb8-c18ca074483d": {
+    "url": "db://assets/resources/image/icons/rabbit/6.png",
+    "value": {}
+  },
+  "43f2c02f-a8a9-4d09-b8e9-90beb3163386": {
+    "url": "db://assets/resources/image/icons/rabbit/7.png",
+    "value": {}
+  },
+  "2d3bb901-046f-4759-8ac0-63d20ac1c220": {
+    "url": "db://assets/resources/image/icons/wild/1.png",
+    "value": {}
+  },
+  "9cbddb1f-84c6-4d88-a145-fd18e16d494a": {
+    "url": "db://assets/resources/image/icons/wild/10.png",
+    "value": {}
+  },
+  "57c38a6a-c540-408d-8ac4-e42e9ce9600b": {
+    "url": "db://assets/resources/image/icons/wild/11.png",
+    "value": {}
+  },
+  "ba5f9e58-32de-4710-a301-84e85c5b4b72": {
+    "url": "db://assets/resources/image/icons/wild/12.png",
+    "value": {}
+  },
+  "e47d32f5-66f4-441e-b0fa-ddd25b25fa13": {
+    "url": "db://assets/resources/image/icons/wild/13.png",
+    "value": {}
+  },
+  "216d9a5e-1eb0-433d-b555-1136be087c9a": {
+    "url": "db://assets/resources/image/icons/wild/14.png",
+    "value": {}
+  },
+  "c7434660-af53-4e0c-ae74-cb564f9a23c9": {
+    "url": "db://assets/resources/image/icons/wild/15.png",
+    "value": {}
+  },
+  "50053a2e-2b20-44aa-ade8-d625a2578844": {
+    "url": "db://assets/resources/image/icons/wild/16.png",
+    "value": {}
+  },
+  "848fe2a5-9aac-423e-8132-a983d08c3ec1": {
+    "url": "db://assets/resources/image/icons/wild/17.png",
+    "value": {}
+  },
+  "2870f8d4-50e4-415e-89dd-a8c601be03fb": {
+    "url": "db://assets/resources/image/icons/wild/18.png",
+    "value": {}
+  },
+  "0014d00d-19ae-4970-8451-e8fd93dfa2f4": {
+    "url": "db://assets/resources/image/icons/wild/19.png",
+    "value": {}
+  },
+  "b243a658-8cd2-448a-b157-1a2d05d26a98": {
+    "url": "db://assets/resources/image/icons/wild/2.png",
+    "value": {}
+  },
+  "73a03791-0fdf-4248-bef8-517367810dcd": {
+    "url": "db://assets/resources/image/icons/wild/3.png",
+    "value": {}
+  },
+  "d4bfb9d3-b05c-4f48-be44-d0fabdaa016c": {
+    "url": "db://assets/resources/image/icons/wild/4.png",
+    "value": {}
+  },
+  "a672c0cb-bb3d-4910-a498-03ea965defe7": {
+    "url": "db://assets/resources/image/icons/wild/5.png",
+    "value": {}
+  },
+  "053cea0b-facb-4ec8-b23e-8f3febcc3c90": {
+    "url": "db://assets/resources/image/icons/wild/6.png",
+    "value": {}
+  },
+  "814b36a8-ab85-47b4-b666-13670e6acc58": {
+    "url": "db://assets/resources/image/icons/wild/7.png",
+    "value": {}
+  },
+  "92183130-1f91-4467-9b75-5d4c5439701d": {
+    "url": "db://assets/resources/image/icons/wild/8.png",
+    "value": {}
+  },
+  "dcc4e8a6-09b7-46aa-bbd7-39a054b3b0c6": {
+    "url": "db://assets/resources/image/icons/wild/9.png",
+    "value": {}
+  },
+  "d2e252b0-ca25-4bec-bf79-0735fdf904e8": {
+    "url": "db://assets/resources/image/icons/wolf/1.png",
+    "value": {}
+  },
+  "776b88a4-cf6b-4336-b906-5282ad352eac": {
+    "url": "db://assets/resources/image/icons/wolf/10.png",
+    "value": {}
+  },
+  "799e66e9-46ff-4f6f-90de-acd52e54fff7": {
+    "url": "db://assets/resources/image/icons/wolf/11.png",
+    "value": {}
+  },
+  "77a8495d-373f-4ab1-aaf6-050160c69aa6": {
+    "url": "db://assets/resources/image/icons/wolf/12.png",
+    "value": {}
+  },
+  "4cedf66f-6ab1-40a7-ae40-fe05a64dda2f": {
+    "url": "db://assets/resources/image/icons/wolf/13.png",
+    "value": {}
+  },
+  "5f965e8a-a31a-414a-9497-9b92ded97703": {
+    "url": "db://assets/resources/image/icons/wolf/14.png",
+    "value": {}
+  },
+  "e94c382b-61cb-47ca-bfd5-fc28bda0f3ff": {
+    "url": "db://assets/resources/image/icons/wolf/15.png",
+    "value": {}
+  },
+  "b4feb321-8c64-4c0f-a886-3d3ecd216067": {
+    "url": "db://assets/resources/image/icons/wolf/16.png",
+    "value": {}
+  },
+  "62755261-f4e6-400b-951e-a95eb290a296": {
+    "url": "db://assets/resources/image/icons/wolf/17.png",
+    "value": {}
+  },
+  "7b9b1f34-af53-4bca-b74f-1cea650113ee": {
+    "url": "db://assets/resources/image/icons/wolf/18.png",
+    "value": {}
+  },
+  "d9f23ad5-e6c2-4204-af07-513f1f03d0a2": {
+    "url": "db://assets/resources/image/icons/wolf/19.png",
+    "value": {}
+  },
+  "384e600d-be97-45a0-8632-ac9eb027bf65": {
+    "url": "db://assets/resources/image/icons/wolf/2.png",
+    "value": {}
+  },
+  "be50025d-8b30-4fe3-af6c-fd8ec78053ab": {
+    "url": "db://assets/resources/image/icons/wolf/20.png",
+    "value": {}
+  },
+  "9f9bb20c-6a50-4848-8a82-0ecc05b06609": {
+    "url": "db://assets/resources/image/icons/wolf/21.png",
+    "value": {}
+  },
+  "c7c7f86d-6af2-43f4-981a-b9432d1ff87b": {
+    "url": "db://assets/resources/image/icons/wolf/22.png",
+    "value": {}
+  },
+  "7a138030-2a52-488a-871b-e97ee7904e0a": {
+    "url": "db://assets/resources/image/icons/wolf/23.png",
+    "value": {}
+  },
+  "9eaf5106-42d4-492e-b0ae-894127a2582f": {
+    "url": "db://assets/resources/image/icons/wolf/24.png",
+    "value": {}
+  },
+  "42623eab-d3e0-41ad-9389-3cd2eaf307ec": {
+    "url": "db://assets/resources/image/icons/wolf/25.png",
+    "value": {}
+  },
+  "b0b0e355-65ba-498d-9569-d707507fb30f": {
+    "url": "db://assets/resources/image/icons/wolf/26.png",
+    "value": {}
+  },
+  "28f3f001-af46-471d-b02f-a5d400c23cc9": {
+    "url": "db://assets/resources/image/icons/wolf/27.png",
+    "value": {}
+  },
+  "594bea31-a3ae-48b3-b3c9-269f40d90620": {
+    "url": "db://assets/resources/image/icons/wolf/28.png",
+    "value": {}
+  },
+  "239ef546-2b5f-4f23-b033-2eda024db1dc": {
+    "url": "db://assets/resources/image/icons/wolf/29.png",
+    "value": {}
+  },
+  "0f21b44e-3d54-48f4-936e-d95424bc3e47": {
+    "url": "db://assets/resources/image/icons/wolf/3.png",
+    "value": {}
+  },
+  "0dd0f432-303c-4af7-be7d-df63985f20e9": {
+    "url": "db://assets/resources/image/icons/wolf/30.png",
+    "value": {}
+  },
+  "00af7913-18a2-4f50-a819-74a2d07f2e2a": {
+    "url": "db://assets/resources/image/icons/wolf/31.png",
+    "value": {}
+  },
+  "5913f237-e9e9-4056-a553-5f451539f955": {
+    "url": "db://assets/resources/image/icons/wolf/32.png",
+    "value": {}
+  },
+  "aed57e71-50cd-41e0-89ef-271ab033083a": {
+    "url": "db://assets/resources/image/icons/wolf/33.png",
+    "value": {}
+  },
+  "7a581a5b-1136-4329-aee3-8283c7a7ae7b": {
+    "url": "db://assets/resources/image/icons/wolf/34.png",
+    "value": {}
+  },
+  "82b8a954-13dc-4b8e-b237-40904e931461": {
+    "url": "db://assets/resources/image/icons/wolf/35.png",
+    "value": {}
+  },
+  "c92807cd-1975-4ce1-b079-e2e3225ea58f": {
+    "url": "db://assets/resources/image/icons/wolf/4.png",
+    "value": {}
+  },
+  "8b5a3420-d5e7-470c-8067-343a6a0228b5": {
+    "url": "db://assets/resources/image/icons/wolf/5.png",
+    "value": {}
+  },
+  "cd83ea12-dddf-472e-92c1-88b3eb2cc035": {
+    "url": "db://assets/resources/image/icons/wolf/6.png",
+    "value": {}
+  },
+  "95c90309-0ad0-44fa-88f8-d680a04bfac7": {
+    "url": "db://assets/resources/image/icons/wolf/7.png",
+    "value": {}
+  },
+  "0e2a5755-6744-4c81-999c-5e2e4e04e857": {
+    "url": "db://assets/resources/image/icons/wolf/8.png",
+    "value": {}
+  },
+  "2bc66db9-59ee-4dd1-af72-fb5594975f00": {
+    "url": "db://assets/resources/image/icons/wolf/9.png",
+    "value": {}
+  },
+  "87d7b863-09c6-4f11-86e9-78e57b0ed246": {
+    "url": "db://assets/resources/image/minigame1/light/1.png",
+    "value": {}
+  },
+  "107ea049-4d93-46e4-ae15-478f3c285a18": {
+    "url": "db://assets/resources/image/minigame1/light/2.png",
+    "value": {}
+  },
+  "ef6c79d4-5e29-421e-8c4a-1841430c5dbc": {
+    "url": "db://assets/resources/image/minigame1/light/3.png",
+    "value": {}
+  },
+  "b4821cd7-2f18-4c35-954c-2386ddc0de8e": {
+    "url": "db://assets/resources/image/minigame1/light/4.png",
+    "value": {}
+  },
+  "54cfaa20-e14d-4e5d-8dec-03928ac31e0f": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/1.png",
+    "value": {}
+  },
+  "e17d1dd8-de72-4534-b882-682dbc5bdf05": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/10.png",
+    "value": {}
+  },
+  "f0b1a60f-a700-4155-97d4-62e94f902abf": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/11.png",
+    "value": {}
+  },
+  "3aec341a-620b-456f-a18b-6bd381decee9": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/2.png",
+    "value": {}
+  },
+  "96bee7a2-59fc-4d89-b001-ba0b00284de2": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/3.png",
+    "value": {}
+  },
+  "17744f7a-2bf8-4243-a420-a1f7878938a3": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/4.png",
+    "value": {}
+  },
+  "1b57ebb7-7307-444f-aaa3-4a097331b96f": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/5.png",
+    "value": {}
+  },
+  "619851dc-9ed9-40ce-a77c-0233e569a381": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/6.png",
+    "value": {}
+  },
+  "6cda94be-3172-4bed-bd06-2e9abb372594": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/7.png",
+    "value": {}
+  },
+  "1f5b4816-4f2b-4209-9fe1-c076d1d3d968": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/8.png",
+    "value": {}
+  },
+  "c1452971-5a86-4ee5-87e6-36c987382c73": {
+    "url": "db://assets/resources/image/minigame2/big_fireball/9.png",
+    "value": {}
+  },
+  "b24ba711-fbe4-4360-bca6-6c359e3332c4": {
+    "url": "db://assets/resources/image/minigame2/frame_blue/1.png",
+    "value": {}
+  },
+  "cbef74ca-2837-4544-9db1-18ec146e4f39": {
+    "url": "db://assets/resources/image/minigame2/frame_blue/2.png",
+    "value": {}
+  },
+  "c674b26d-0a5b-4372-828c-30d7468bc6a1": {
+    "url": "db://assets/resources/image/minigame2/frame_blue/3.png",
+    "value": {}
+  },
+  "110ed89b-679e-47f3-b727-a6c7dab06553": {
+    "url": "db://assets/resources/image/minigame2/light/1.png",
+    "value": {}
+  },
+  "612aa57d-5abf-47cb-9988-95d7113372eb": {
+    "url": "db://assets/resources/image/minigame2/light/2.png",
+    "value": {}
+  },
+  "14ca026a-54c5-484f-8ad6-d724cdd8d196": {
+    "url": "db://assets/resources/image/minigame2/light/3.png",
+    "value": {}
+  },
+  "80946e47-1916-4afe-abf9-563352f08579": {
+    "url": "db://assets/resources/image/minigame2/light/4.png",
+    "value": {}
+  },
+  "f4b6004a-e420-480f-bb96-51fb1218bbb0": {
+    "url": "db://assets/resources/image/minigame2/light/5.png",
+    "value": {}
+  },
+  "afbd0b27-cf7b-4a75-8dd8-67022fe50d38": {
+    "url": "db://assets/resources/image/minigame2/light/6.png",
+    "value": {}
+  },
+  "e7bb6f73-2470-468e-9736-77718c306460": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/1.png",
+    "value": {}
+  },
+  "cf33d2f9-2f43-43a6-84ca-41083f994278": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/10.png",
+    "value": {}
+  },
+  "530ea1ae-d6ce-417f-897b-361e6842a135": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/11.png",
+    "value": {}
+  },
+  "644bf6d9-ee53-40ef-acc6-967ba8b29fc8": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/2.png",
+    "value": {}
+  },
+  "45445bd2-4a34-489c-aa4c-ef518d41a783": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/3.png",
+    "value": {}
+  },
+  "185f3021-45e5-400f-b3ba-4206616fcdeb": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/4.png",
+    "value": {}
+  },
+  "cc6b303a-1dd9-46ff-ace5-c778b718d81c": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/5.png",
+    "value": {}
+  },
+  "15aceb34-1e42-422b-82f3-48101de9bbd8": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/6.png",
+    "value": {}
+  },
+  "2419ea5c-5063-4398-946a-aa00f4be8071": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/7.png",
+    "value": {}
+  },
+  "de23f053-3c29-4aaa-b6d2-6bdc6e22ac68": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/8.png",
+    "value": {}
+  },
+  "5237ec1b-4eae-49e5-b20c-c87cc4e6d246": {
+    "url": "db://assets/resources/image/minigame2/mini fireball/9.png",
+    "value": {}
+  },
+  "e35fa41d-fe97-4f6e-a430-7c2225159def": {
+    "url": "db://assets/resources/image/minigame2/up_panel/1.png",
+    "value": {}
+  },
+  "dba50ae3-bc48-4a20-a540-44d4de52b103": {
+    "url": "db://assets/resources/image/minigame2/up_panel/2.png",
+    "value": {}
+  },
+  "ff518229-d9b0-42c3-bf9e-407e64c1fe1a": {
+    "url": "db://assets/resources/image/minigame2/up_panel/3.png",
+    "value": {}
+  },
+  "4f878ade-5369-494a-b93d-3040fce324e9": {
+    "url": "db://assets/resources/image/minigame2/up_panel/4.png",
+    "value": {}
+  },
+  "ea974d7f-4812-432f-8fc7-325f420a9b78": {
+    "url": "db://assets/resources/image/minigame2/up_panel/5.png",
+    "value": {}
+  },
+  "581c24ef-a865-4e9c-8c77-fe57f737044e": {
+    "url": "db://assets/resources/image/minigame2/up_panel/6.png",
+    "value": {}
+  },
+  "6d3c2e58-afda-4c33-beb0-5c53dafea011": {
+    "url": "db://assets/resources/image/minigame2/up_panel/7.png",
+    "value": {}
+  },
+  "cf1a448d-f8e9-46c5-b028-f53edc997f5d": {
+    "url": "db://assets/resources/image/minigame2/winner/1.png",
+    "value": {}
+  },
+  "fea6d5a7-a15b-45cd-9b40-a7ef24ebfcbf": {
+    "url": "db://assets/resources/image/minigame2/winner/2.png",
+    "value": {}
+  },
+  "b2296232-dd38-42eb-8b2b-7eb4aa27e474": {
+    "url": "db://assets/resources/image/minigame2/winner/3.png",
+    "value": {}
+  },
+  "6520b010-d03b-4300-ba89-20db6681d3a7": {
+    "url": "db://assets/resources/image/minigame2/winner/4.png",
+    "value": {}
+  },
+  "41f5a53e-d4f4-4aa4-a9f8-749fb4726d48": {
+    "url": "db://assets/resources/image/minigame2/winner/5.png",
+    "value": {}
+  },
+  "756a1be5-8fb2-4d41-82d6-31334111a889": {
+    "url": "db://assets/resources/image/minigame2/winner/6.png",
+    "value": {}
+  },
+  "d79f5c8b-03bc-4966-bcc6-671c4843126a": {
+    "url": "db://assets/resources/image/Win_animation/Text/Untitled-3_0000_Big.png",
+    "value": {}
+  },
+  "82b6d59c-8acc-4c7b-aa0b-6dd60288dbaf": {
+    "url": "db://assets/resources/image/Win_animation/Text/Untitled-3_0000_Layer-3.png",
+    "value": {}
+  },
+  "4a3faafc-de2a-48c9-9f5c-3b5957978fff": {
+    "url": "db://assets/resources/image/Win_animation/Text/Untitled-3_0001_Layer-2.png",
+    "value": {}
+  },
+  "4c33e7b1-5f96-44f0-b242-055490014bec": {
+    "url": "db://assets/resources/image/Win_animation/Text/Untitled-3_0001_Win.png",
+    "value": {}
+  },
+  "5abd4981-968e-4b19-a8ad-8d40ed9afbb8": {
+    "url": "db://assets/resources/image/Win_animation/Text/Untitled-3_0002_Layer-1.png",
+    "value": {}
+  },
+  "f4718116-152b-4e7a-8307-c1f0fc52a8f2": {
+    "url": "db://assets/resources/image/icons/9/icon-9.pac",
+    "value": {}
+  },
+  "573f13a0-c8dc-4596-a316-92482cd2fc85": {
+    "url": "db://assets/resources/image/icons/9/icon-9.pac",
+    "value": {}
+  },
+  "9d0cf17d-b72b-495d-ac4d-8099c97dd8b6": {
+    "url": "db://assets/resources/image/icons/9/icon-9.png",
+    "value": {}
+  },
+  "18822a54-8974-4092-99e2-d344f879cef2": {
+    "url": "db://assets/resources/image/icons/9/icon-9.plist",
+    "value": {}
+  },
+  "2e3ce961-6035-4d1a-9859-8aecfb91239a": {
+    "url": "db://assets/resources/image/icons/icon-9.plist",
+    "value": {}
+  },
+  "19706df9-6561-49be-917a-40616255827e": {
+    "url": "db://assets/resources/image/icons/icon-10.plist",
+    "value": {}
+  },
+  "2a161adb-2513-44e6-becc-608970f71a41": {
+    "url": "db://assets/resources/image/icons/icon-cat.plist",
+    "value": {}
+  },
+  "7ebc59dd-0337-4f82-9ee0-f76ad27e79f3": {
+    "url": "db://assets/resources/image/icons/icon-a.plist",
+    "value": {}
+  },
+  "c226f49c-7940-4e62-ab92-274f8c391de4": {
+    "url": "db://assets/resources/image/icons/icon-deer.plist",
+    "value": {}
+  },
+  "a1ef0343-c032-43f6-8034-488d5d128b54": {
+    "url": "db://assets/resources/image/icons/icon-j.plist",
+    "value": {}
+  },
+  "12ed1401-db7f-4682-886d-e8f05a76e1e9": {
+    "url": "db://assets/resources/image/icons/icon-k.plist",
+    "value": {}
+  },
+  "8031c620-753b-4f65-9146-7f5c4eb10892": {
+    "url": "db://assets/resources/image/icons/icon-owl.plist",
+    "value": {}
+  },
+  "ba99c394-d79b-4a49-a112-c2ef0d90c8a8": {
+    "url": "db://assets/resources/image/icons/icon-q.plist",
+    "value": {}
+  },
+  "8ef14cdb-7536-442c-9a0d-401eaf62edec": {
+    "url": "db://assets/resources/image/icons/icon-rabbit.plist",
+    "value": {}
+  },
+  "efb34800-b693-4f96-8b85-c58cb776efe9": {
+    "url": "db://assets/resources/image/icons/icon-wolf.plist",
+    "value": {}
+  },
+  "bfd34496-1403-4247-8980-8a736fa42458": {
+    "url": "db://assets/resources/image/icons/icon-9.png",
+    "value": {}
+  },
+  "eb6c39aa-1bd8-406b-8112-537ae8cab7f4": {
+    "url": "db://assets/resources/image/icons/icon-10.png",
+    "value": {}
+  },
+  "de106f7a-27d5-4e2a-ba2f-63b163f6524b": {
+    "url": "db://assets/resources/image/icons/icon-a.png",
+    "value": {}
+  },
+  "f4c2be2d-a9d7-440e-aaaa-47f41ea6b4fe": {
+    "url": "db://assets/resources/image/icons/icon-cat.png",
+    "value": {}
+  },
+  "6ad5462f-8163-429d-8cb0-86a1a7b72a82": {
+    "url": "db://assets/resources/image/icons/icon-deer.png",
+    "value": {}
+  },
+  "6c73939f-9e11-48e6-8a8e-5eed4f830c52": {
+    "url": "db://assets/resources/image/icons/icon-j.png",
+    "value": {}
+  },
+  "e69eb41e-3389-4784-85f0-d9de245c079e": {
+    "url": "db://assets/resources/image/icons/icon-k.png",
+    "value": {}
+  },
+  "0d6c39ef-d1b1-4e52-a608-dfab8b4dd6b3": {
+    "url": "db://assets/resources/image/icons/icon-owl.png",
+    "value": {}
+  },
+  "4bb0967e-a19f-4233-b3ee-c3c9c6dbe637": {
+    "url": "db://assets/resources/image/icons/icon-q.png",
+    "value": {}
+  },
+  "9b6a3b6d-7f5f-4d9c-a20e-2763f55c6a5f": {
+    "url": "db://assets/resources/image/icons/icon-rabbit.png",
+    "value": {}
+  },
+  "43be0250-9919-48dc-b6c0-786fe9a28937": {
+    "url": "db://assets/resources/image/icons/icon-wolf.png",
+    "value": {}
+  },
+  "a22225f8-6b24-4dde-afe0-b145a452dc7b": {
+    "url": "db://assets/resources/image/icons/icon-wild.plist",
+    "value": {}
+  },
+  "0efb8de2-7b36-4e07-b3f7-17b24a0a7db2": {
+    "url": "db://assets/resources/image/icons/icon-wild.png",
+    "value": {}
+  },
+  "c5c0370c-e374-4750-a252-9d2dcdd193ca": {
+    "url": "db://assets/resources/image/icons/icon-bonus.png",
+    "value": {}
+  },
+  "21ccd349-9f23-47ee-b6f9-43944438e577": {
+    "url": "db://assets/resources/image/icons/icon-bonus.plist",
+    "value": {}
+  },
+  "ee820bb2-4064-4725-b5d4-cf6af2fd96ef": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "7bb19b5f-bf71-4e1a-be86-8a33cdec546f": {
+    "url": "db://assets/scene/2.Main.scene",
+    "value": {}
+  },
+  "a966128b-8859-454a-b842-8ff1d51d1c2e": {
+    "url": "db://assets/resources/image/play_button",
+    "value": {}
+  },
+  "ac617d4b-a674-4f4a-8fc8-063fe7811802": {
+    "url": "db://assets/resources/image/play_button/1.png",
+    "value": {}
+  },
+  "04d9c083-a89d-4acb-ba18-77e38031a962": {
+    "url": "db://assets/resources/image/play_button/plus.png",
+    "value": {}
+  },
+  "ba1e5d6f-c49a-4374-860f-a004707ab41b": {
+    "url": "db://assets/resources/image/play_button/reload.png",
+    "value": {}
+  },
+  "e88bd23e-a19f-4286-8152-12b4f4770f65": {
+    "url": "db://assets/resources/image/play_button/minus.png",
+    "value": {}
+  },
+  "7a479071-6c09-440e-a17d-4e280361d999": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "4c2469cc-0b45-4639-8c08-1f49cd29602e": {
+    "url": "db://assets/scripts/logoAnim.ts",
+    "value": {}
+  },
+  "8c70c02e-6851-48f0-b146-158d08257061": {
+    "url": "db://assets/resources/image/logo-effect.png",
+    "value": {}
+  },
+  "45178812-0059-4bf3-8109-9d17868216a9": {
+    "url": "db://assets/scripts/loadingController.ts",
+    "value": {}
+  },
+  "b53738cb-9736-41e4-b393-d88cf970408f": {
+    "url": "db://assets/resources/image/setting-buttons",
+    "value": {}
+  },
+  "db881a7f-08a4-4f7c-b49c-8f24ad01d2a0": {
+    "url": "db://assets/resources/image/setting/btn-setting.png",
+    "value": {}
+  },
+  "fb60d15f-7566-4792-8e72-f21ada90adb3": {
+    "url": "db://assets/resources/image/setting/btn-setting.plist",
+    "value": {}
+  },
+  "18bd7b86-6deb-4524-878a-06133af18830": {
+    "url": "db://assets/resources/image/setting",
+    "value": {}
+  },
+  "647d93eb-89d6-4c30-a490-84d8665f32d5": {
+    "url": "db://assets/resources/image/setting/bg-setting.png",
+    "value": {}
+  },
+  "966dde4a-3647-4a47-8b4f-645c2cc61b52": {
+    "url": "db://assets/resources/image/setting/btn-setting.png",
+    "value": {}
+  },
+  "9c4b59db-fbaa-409b-adc8-12521a5ac639": {
+    "url": "db://assets/resources/image/setting/btn-setting.plist",
+    "value": {}
+  },
+  "9eab171f-ee1c-4707-969b-6114f4ad00b3": {
+    "url": "db://assets/scripts/settingController.ts",
+    "value": {}
+  },
+  "e1f7f7e0-6941-4fbf-9588-826d23957830": {
+    "url": "db://assets/scripts/GameManager.ts",
+    "value": {}
+  },
+  "035c0130-bfaf-4afb-a223-3b203ad6e44f": {
+    "url": "db://assets/scripts/GameManager.ts",
+    "value": {}
+  },
+  "4ff72638-a494-42a7-8081-9b46c8f6271c": {
+    "url": "db://assets/scripts/ReelManager.ts",
+    "value": {}
+  },
+  "3969b3aa-6f65-4464-8544-42b11449e87b": {
+    "url": "db://assets/scene/1.Login.scene",
+    "value": {}
+  },
+  "abdd6197-7ac9-4551-bf7c-ba9090972dce": {
+    "url": "db://assets/scripts/reelController.ts",
+    "value": {}
+  },
+  "1d19b096-03fa-4a75-907d-ca0575ef1793": {
+    "url": "db://assets/scripts/InfoController.ts",
+    "value": {}
+  },
+  "268a1f79-bca6-4b50-af2e-6e0d340ad897": {
+    "url": "db://assets/scripts/LogoController.ts",
+    "value": {}
+  },
+  "006b93b7-81b3-4b13-849d-773393bf291c": {
+    "url": "db://assets/resources/image/axeLeft.png",
+    "value": {}
+  },
+  "56ff6d62-d9d9-4114-a3c1-ffbdce90e554": {
+    "url": "db://assets/resources/image/axeRight.png",
+    "value": {}
+  },
+  "13d39f88-e764-4083-98f5-6ddea8ac914f": {
+    "url": "db://assets/scripts/ReelController.ts",
+    "value": {}
+  },
+  "d13eb218-d09d-4816-8828-c38efac934b6": {
+    "url": "db://assets/scripts/SettingDetailController.ts",
+    "value": {}
+  },
+  "20bceaa7-3237-4830-b2d4-81954ace10c4": {
+    "url": "db://assets/scripts/Global",
+    "value": {}
+  },
+  "936d43f5-8b0d-42ab-99b2-1df928fc6ec2": {
+    "url": "db://assets/scripts/Global/Global.ts",
+    "value": {}
+  },
+  "dd4eaf89-b63a-48eb-9b69-e643cce03b61": {
+    "url": "db://assets/scripts/SettingDetail.ts",
+    "value": {}
+  },
+  "693e5c9d-8ab9-449a-b82a-5a5c6bfcbe87": {
+    "url": "db://assets/scripts/PlayerStatusController.ts",
+    "value": {}
+  },
+  "c788badd-3916-4c19-9102-d5ee8581ba0f": {
+    "url": "db://assets/animation",
+    "value": {}
+  },
+  "e77b6c86-7683-421c-abbc-8fe21831f6de": {
+    "url": "db://assets/animation/wolf.anim",
+    "value": {}
+  },
+  "61c3f1cc-a660-4ef0-8b76-50e0f09d9892": {
+    "url": "db://assets/prefab",
+    "value": {}
+  },
+  "99c6cc6d-082f-4093-8238-3b81b6e15673": {
+    "url": "db://assets/resources/image/icons/icon-x.png",
+    "value": {}
+  },
+  "ccb4ce26-f489-4d9a-97bd-273d176b68d3": {
+    "url": "db://assets/resources/image/icons/icon-x.plist",
+    "value": {}
+  },
+  "aa7436e7-5710-4140-a399-33993d153fe7": {
+    "url": "db://assets/animation/wild.anim",
+    "value": {}
+  },
+  "c2bd8431-fa84-47b1-87ec-4e6792d1746d": {
+    "url": "db://assets/scripts/ScoreController.ts",
+    "value": {}
+  },
+  "2a074e7e-0d28-4bec-986f-e0313ffe5673": {
+    "url": "db://assets/scripts/Global/AudioManager.ts",
+    "value": {}
+  },
+  "69591092-3cdf-4a56-a3b9-e9b4f739a37d": {
+    "url": "db://assets/audio",
+    "value": {}
+  },
+  "3644ae68-750a-45e2-823a-f1bec826359b": {
+    "url": "db://assets/audio/coins.wav",
+    "value": {}
+  },
+  "6d8f9b3f-69d8-4953-8613-803e131a352c": {
+    "url": "db://assets/audio/coinsWin.wav",
+    "value": {}
+  },
+  "1eabfbb2-6ee7-45a1-9bd5-b00f8b57451a": {
+    "url": "db://assets/audio/gameOver.wav",
+    "value": {}
+  },
+  "6ea24b72-6dae-43e3-b2a2-daeffccf1b00": {
+    "url": "db://assets/audio/jackpot.wav",
+    "value": {}
+  },
+  "1bbfe966-55ba-44cc-a686-8c6896dd7336": {
+    "url": "db://assets/audio/lineWin.wav",
+    "value": {}
+  },
+  "e616e401-2919-4d19-ba13-453203aef6b9": {
+    "url": "db://assets/audio/reelRoll.mp3",
+    "value": {}
+  },
+  "4149ff35-1df4-4be9-a5e4-d18f1e4a27b5": {
+    "url": "db://assets/audio/reelStart.wav",
+    "value": {}
+  },
+  "ad33fd13-c9b4-4ecf-b063-f9e5382625c3": {
+    "url": "db://assets/audio/reelStop.wav",
+    "value": {}
+  },
+  "b4069c7b-9d1a-41f2-b9cc-ab1fda39dcb5": {
+    "url": "db://assets/scripts/Global/constant.ts",
+    "value": {}
+  },
+  "4b4cfb1b-7b76-4355-b70e-5f0c504f396b": {
+    "url": "db://assets/scripts.rar",
+    "value": {}
+  }
+}

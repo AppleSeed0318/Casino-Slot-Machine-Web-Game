@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "96bd5KNkdKR4tPZFwsxhtS@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "back-active",
+            "rect": {
+                "x": 393,
+                "y": 86,
+                "width": 73,
+                "height": 64
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 73,
+                "height": 64
+            },
+            "rotated": true,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

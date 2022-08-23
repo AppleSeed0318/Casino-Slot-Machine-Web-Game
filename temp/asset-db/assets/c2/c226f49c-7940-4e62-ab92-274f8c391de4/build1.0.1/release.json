@@ -1,0 +1,41 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-deer",
+            "spriteFrames": [
+                "1",
+                "c2JvSceUBOYquSJ0+MOR3k@c30fb",
+                "2",
+                "c2JvSceUBOYquSJ0+MOR3k@c86cc",
+                "3",
+                "c2JvSceUBOYquSJ0+MOR3k@e7223",
+                "4",
+                "c2JvSceUBOYquSJ0+MOR3k@a795c",
+                "5",
+                "c2JvSceUBOYquSJ0+MOR3k@e7d45",
+                "6",
+                "c2JvSceUBOYquSJ0+MOR3k@116ec",
+                "7",
+                "c2JvSceUBOYquSJ0+MOR3k@855b3",
+                "8",
+                "c2JvSceUBOYquSJ0+MOR3k@c959d",
+                "9",
+                "c2JvSceUBOYquSJ0+MOR3k@4ce76"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

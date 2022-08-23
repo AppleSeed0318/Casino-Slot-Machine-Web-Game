@@ -1,0 +1,61 @@
+{
+  "__version__": "3.0.3",
+  "game": {
+    "app_id": "667046571",
+    "name": "SlotMachine_20220702034417",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "ec335b"
+    },
+    {
+      "app_id": "667046568",
+      "config_id": "f115c6"
+    },
+    {
+      "app_id": "667046571",
+      "config_id": "8143a9"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "ec335b",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "667046568",
+      "config_id": "256e46",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "667046568",
+      "config_id": "f115c6",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "667046571",
+      "config_id": "8143a9",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {
+            "app_id": "667046571",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}

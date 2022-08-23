@@ -1,0 +1,37 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-q",
+            "spriteFrames": [
+                "1",
+                "bamcOU15tKSaESwu8NkMio@c30fb",
+                "2",
+                "bamcOU15tKSaESwu8NkMio@c86cc",
+                "3",
+                "bamcOU15tKSaESwu8NkMio@e7223",
+                "4",
+                "bamcOU15tKSaESwu8NkMio@a795c",
+                "5",
+                "bamcOU15tKSaESwu8NkMio@e7d45",
+                "6",
+                "bamcOU15tKSaESwu8NkMio@116ec",
+                "7",
+                "bamcOU15tKSaESwu8NkMio@855b3"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

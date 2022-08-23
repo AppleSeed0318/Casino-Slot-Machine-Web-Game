@@ -1,0 +1,39 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-10",
+            "spriteFrames": [
+                "1",
+                "19cG35ZWFJvpF6QGFiVYJ+@c30fb",
+                "2",
+                "19cG35ZWFJvpF6QGFiVYJ+@c86cc",
+                "3",
+                "19cG35ZWFJvpF6QGFiVYJ+@e7223",
+                "4",
+                "19cG35ZWFJvpF6QGFiVYJ+@a795c",
+                "5",
+                "19cG35ZWFJvpF6QGFiVYJ+@e7d45",
+                "6",
+                "19cG35ZWFJvpF6QGFiVYJ+@116ec",
+                "7",
+                "19cG35ZWFJvpF6QGFiVYJ+@855b3",
+                "8",
+                "19cG35ZWFJvpF6QGFiVYJ+@c959d"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

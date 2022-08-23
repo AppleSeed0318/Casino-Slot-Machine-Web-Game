@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "96bd5KNkdKR4tPZFwsxhtS@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "sound-on-active",
+            "rect": {
+                "x": 158,
+                "y": 158,
+                "width": 155,
+                "height": 155
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 155,
+                "height": 155
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

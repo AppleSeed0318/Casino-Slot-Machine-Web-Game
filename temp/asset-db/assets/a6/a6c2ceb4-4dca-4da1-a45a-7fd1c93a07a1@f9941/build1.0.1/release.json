@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "a6ws60TcpNoaRaf9HJOgeh@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "bg_slot",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 2,
+                "height": 314
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 2,
+                "height": 314
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "back-active",
+    "atlas": "9c4b59db-fbaa-409b-adc8-12521a5ac639",
+    "rect": {
+      "x": 393,
+      "y": 86,
+      "width": 73,
+      "height": 64
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 73,
+      "height": 64
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "966dde4a-3647-4a47-8b4f-645c2cc61b52@6c48a",
+    "packable": true
+  }
+}

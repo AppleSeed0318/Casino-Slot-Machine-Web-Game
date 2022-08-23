@@ -1,0 +1,51 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-j",
+            "spriteFrames": [
+                "1",
+                "a17wNDwDJD9oA0SI1dEotU@c30fb",
+                "2",
+                "a17wNDwDJD9oA0SI1dEotU@c86cc",
+                "4",
+                "a17wNDwDJD9oA0SI1dEotU@a795c",
+                "5",
+                "a17wNDwDJD9oA0SI1dEotU@e7d45",
+                "6",
+                "a17wNDwDJD9oA0SI1dEotU@116ec",
+                "7",
+                "a17wNDwDJD9oA0SI1dEotU@855b3",
+                "8",
+                "a17wNDwDJD9oA0SI1dEotU@c959d",
+                "9",
+                "a17wNDwDJD9oA0SI1dEotU@4ce76",
+                "10",
+                "a17wNDwDJD9oA0SI1dEotU@d6710",
+                "11",
+                "a17wNDwDJD9oA0SI1dEotU@6422a",
+                "12",
+                "a17wNDwDJD9oA0SI1dEotU@cdab0",
+                "13",
+                "a17wNDwDJD9oA0SI1dEotU@c10f9",
+                "14",
+                "a17wNDwDJD9oA0SI1dEotU@a8656",
+                "15",
+                "a17wNDwDJD9oA0SI1dEotU@979f3"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

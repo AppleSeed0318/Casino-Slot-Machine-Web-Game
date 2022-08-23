@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "corner_down",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 43,
+      "height": 39
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 43,
+      "height": 39
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "82c5d813-df14-4556-bb71-b5a6278ab61e@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo-effect",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 483,
+      "height": 560
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 483,
+      "height": 560
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8c70c02e-6851-48f0-b146-158d08257061@6c48a",
+    "packable": true
+  }
+}

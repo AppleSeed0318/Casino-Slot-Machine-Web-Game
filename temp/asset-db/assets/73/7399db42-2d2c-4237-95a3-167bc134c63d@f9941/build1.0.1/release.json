@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "73mdtCLSxCN5WjFnvBNMY9@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "plate_freegames",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 314,
+                "height": 35
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 314,
+                "height": 35
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

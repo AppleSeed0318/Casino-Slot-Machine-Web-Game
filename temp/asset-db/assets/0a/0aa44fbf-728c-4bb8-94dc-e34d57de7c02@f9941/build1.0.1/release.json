@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "0apE+/coxLuJTc401X3nwC@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "down_bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 29,
+                "height": 148
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 29,
+                "height": 148
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

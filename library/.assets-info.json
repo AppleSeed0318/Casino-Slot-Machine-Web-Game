@@ -1,0 +1,3218 @@
+{
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources.meta": {
+    "time": 1656273974094.0854
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources": {
+    "time": 1656273984777.8708,
+    "uuid": "c31182ea-a362-409b-a56c-0a308e0f6152",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image.meta": {
+    "time": 1656273984779.866
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image": {
+    "time": 1656308736630.6233,
+    "uuid": "c0478642-de28-490b-a886-45b138ab79c2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\axe.png.meta": {
+    "time": 1656279720219.7097
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\bg1.jpg.meta": {
+    "time": 1656275009831.3953
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\bg_slot.png.meta": {
+    "time": 1656279720191.7383
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_down.png.meta": {
+    "time": 1656279720194.734
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_down1.png.meta": {
+    "time": 1656279720205.7224
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_up.png.meta": {
+    "time": 1656279720229.7036
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_up1.png.meta": {
+    "time": 1656279720351.5823
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\down_bg.png.meta": {
+    "time": 1656279720348.5864
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\font.meta": {
+    "time": 1656274020078.118
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame.meta": {
+    "time": 1656274020091.105
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame.png.meta": {
+    "time": 1656279615254.998
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame1.png.meta": {
+    "time": 1656279720400.5364
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame2.png.meta": {
+    "time": 1656279720361.5735
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons.meta": {
+    "time": 1656274020202.9988
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info.meta": {
+    "time": 1656274020209.9924
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info.jpg.meta": {
+    "time": 1656275072355.6143
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\loading.png.meta": {
+    "time": 1656279663186.1885
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\logo.png.meta": {
+    "time": 1656279720405.532
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1.meta": {
+    "time": 1656274020381.8284
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2.meta": {
+    "time": 1656274020386.8235
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\numb.png.meta": {
+    "time": 1656279720542.401
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\plate_freegames.png.meta": {
+    "time": 1656279720518.4238
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\plate_ways.png.meta": {
+    "time": 1656279720524.417
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\shadow.jpg.meta": {
+    "time": 1656279720510.4307
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation.meta": {
+    "time": 1656274020480.7341
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Wolf_reels.png.meta": {
+    "time": 1656279720554.3894
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X.meta": {
+    "time": 1656274020497.717
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\font\\tt0007m.ttf.meta": {
+    "time": 1656274020564.652
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\1.png.meta": {
+    "time": 1656283559828.5142
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\2.png.meta": {
+    "time": 1656283559520.8076
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\3.png.meta": {
+    "time": 1656283559540.7893
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\4.png.meta": {
+    "time": 1656283559476.851
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\5.png.meta": {
+    "time": 1656283559545.7842
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\6.png.meta": {
+    "time": 1656283559549.781
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\1.png.meta": {
+    "time": 1656274021188.0564
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\2.png.meta": {
+    "time": 1656274021195.0496
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\3.png.meta": {
+    "time": 1656274021211.034
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\4.png.meta": {
+    "time": 1656274021223.0222
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\5.png.meta": {
+    "time": 1656274021385.8677
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\6.png.meta": {
+    "time": 1656274021412.843
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\arrow.png.meta": {
+    "time": 1656274021572.6897
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\bg.png.meta": {
+    "time": 1656274021594.6677
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\bg3.jpg.meta": {
+    "time": 1656274021450.806
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\bg_light.png.meta": {
+    "time": 1656274021675.5908
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\bg_light1.png.meta": {
+    "time": 1656274021849.423
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\big_flag.png.meta": {
+    "time": 1656274021601.663
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\big_flag1.png.meta": {
+    "time": 1656274021685.5835
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_blue.png.meta": {
+    "time": 1656274021707.56
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_blue1.png.meta": {
+    "time": 1656274021712.557
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_green.png.meta": {
+    "time": 1656274021782.4885
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_green1.png.meta": {
+    "time": 1656274021794.4763
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_heavy_blue.png.meta": {
+    "time": 1656274021860.4128
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_heavy_blue1.png.meta": {
+    "time": 1656274021899.3767
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_red.png.meta": {
+    "time": 1656274022026.2563
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_red1.png.meta": {
+    "time": 1656274021975.3042
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_yellow.png.meta": {
+    "time": 1656274022041.2407
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_yellow1.png.meta": {
+    "time": 1656274022007.2734
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light.meta": {
+    "time": 1656274021903.3718
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\plate.png.meta": {
+    "time": 1656274022051.232
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\txt_cong.png.meta": {
+    "time": 1656274022289.005
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\wooden_plank.png.meta": {
+    "time": 1656274022220.0698
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\bg1.png.meta": {
+    "time": 1656274022060.2236
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\bg2.jpg.meta": {
+    "time": 1656274022097.187
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball.meta": {
+    "time": 1656274022054.2285
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\fire.png.meta": {
+    "time": 1656274022317.9753
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame.png.meta": {
+    "time": 1656274022327.9673
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue.meta": {
+    "time": 1656274022102.184
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\ic_lock.png.meta": {
+    "time": 1656274022336.958
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\jackpot.png.meta": {
+    "time": 1656274022395.9026
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light.meta": {
+    "time": 1656274022293.001
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light.png.meta": {
+    "time": 1656274022359.9363
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light_line.png.meta": {
+    "time": 1656274022453.8452
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\line.png.meta": {
+    "time": 1656274022383.9143
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball.meta": {
+    "time": 1656274022345.9495
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\particle.png.meta": {
+    "time": 1656274022437.8604
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel.meta": {
+    "time": 1656274022364.9316
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner.meta": {
+    "time": 1656274022373.9226
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\big_win_animations.jpg.meta": {
+    "time": 1656274022411.886
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\big_win_animations_2.jpg.meta": {
+    "time": 1656274022440.8577
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text.meta": {
+    "time": 1656274022398.8987
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\1.png.meta": {
+    "time": 1656274022471.828
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\10.png.meta": {
+    "time": 1656274022491.811
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\15.png.meta": {
+    "time": 1656274022544.7598
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\2.png.meta": {
+    "time": 1656274022510.793
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\25.png.meta": {
+    "time": 1656274022515.7883
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\3.png.meta": {
+    "time": 1656274022565.7383
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\4.png.meta": {
+    "time": 1656274022572.734
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\5.png.meta": {
+    "time": 1656274022584.7205
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\50.png.meta": {
+    "time": 1656274022660.6494
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\8.png.meta": {
+    "time": 1656274022617.6885
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\mini.png.meta": {
+    "time": 1656274022630.677
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\shadow.png.meta": {
+    "time": 1656274022666.6436
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\1.png.meta": {
+    "time": 1656274025699.744
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\2.png.meta": {
+    "time": 1656274026024.434
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\3.png.meta": {
+    "time": 1656274025687.7559
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\4.png.meta": {
+    "time": 1656274025723.721
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\1.png.meta": {
+    "time": 1656274025839.6118
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\10.png.meta": {
+    "time": 1656274025869.5808
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\11.png.meta": {
+    "time": 1656274025880.5703
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\2.png.meta": {
+    "time": 1656274026003.4553
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\3.png.meta": {
+    "time": 1656274026032.4255
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\4.png.meta": {
+    "time": 1656274026061.3975
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\5.png.meta": {
+    "time": 1656274026140.322
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\6.png.meta": {
+    "time": 1656274026199.266
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\7.png.meta": {
+    "time": 1656274026227.2432
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\8.png.meta": {
+    "time": 1656274026273.196
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\9.png.meta": {
+    "time": 1656274026301.1685
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue\\1.png.meta": {
+    "time": 1656274026318.1519
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue\\2.png.meta": {
+    "time": 1656274026606.8784
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue\\3.png.meta": {
+    "time": 1656274026647.8364
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\1.png.meta": {
+    "time": 1656274026643.8408
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\2.png.meta": {
+    "time": 1656274026906.589
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\3.png.meta": {
+    "time": 1656274026914.5818
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\4.png.meta": {
+    "time": 1656274027110.3938
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\5.png.meta": {
+    "time": 1656274027248.2622
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\6.png.meta": {
+    "time": 1656274027308.2058
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\1.png.meta": {
+    "time": 1656274027020.4797
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\10.png.meta": {
+    "time": 1656274027040.4626
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\11.png.meta": {
+    "time": 1656274027125.381
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\2.png.meta": {
+    "time": 1656274027136.3718
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\3.png.meta": {
+    "time": 1656274027212.2969
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\4.png.meta": {
+    "time": 1656274027238.2727
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\5.png.meta": {
+    "time": 1656274027295.2202
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\6.png.meta": {
+    "time": 1656274027327.1877
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\7.png.meta": {
+    "time": 1656274027367.1494
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\8.png.meta": {
+    "time": 1656274027382.135
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\9.png.meta": {
+    "time": 1656274027442.0776
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\1.png.meta": {
+    "time": 1656274027477.0447
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\2.png.meta": {
+    "time": 1656274027483.0388
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\3.png.meta": {
+    "time": 1656274027517.0056
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\4.png.meta": {
+    "time": 1656274027538.9846
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\5.png.meta": {
+    "time": 1656274027592.935
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\6.png.meta": {
+    "time": 1656274027613.913
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\7.png.meta": {
+    "time": 1656274027637.8916
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\1.png.meta": {
+    "time": 1656274027683.8477
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\2.png.meta": {
+    "time": 1656274027699.8313
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\3.png.meta": {
+    "time": 1656274027743.789
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\4.png.meta": {
+    "time": 1656274027760.773
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\5.png.meta": {
+    "time": 1656274027768.7664
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\6.png.meta": {
+    "time": 1656274027896.6423
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Big.png.meta": {
+    "time": 1656274027923.6165
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Layer-3.png.meta": {
+    "time": 1656274027957.5842
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Layer-2.png.meta": {
+    "time": 1656274027967.5786
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Win.png.meta": {
+    "time": 1656274027984.5579
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0002_Layer-1.png.meta": {
+    "time": 1656274028043.5034
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\bg_slot.png": {
+    "time": 1656215660000,
+    "uuid": "a6c2ceb4-4dca-4da1-a45a-7fd1c93a07a1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\bg1.jpg": {
+    "time": 1656215660000,
+    "uuid": "eef59fc2-1d93-4eba-a97a-6ab8bd28dd68",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_down1.png": {
+    "time": 1656215660000,
+    "uuid": "831e4949-1e70-4ba2-91f5-a6f24fe117bb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_down.png": {
+    "time": 1656215660000,
+    "uuid": "82c5d813-df14-4556-bb71-b5a6278ab61e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\font": {
+    "time": 1656274019700.4912,
+    "uuid": "9a4ba90c-f172-4473-b044-eb99f5b9555e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame": {
+    "time": 1656274019707.471,
+    "uuid": "d40ce75e-1448-46d0-9298-d346037134cc",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\axe.png": {
+    "time": 1656215660000,
+    "uuid": "c5d71e0c-22c3-4e41-a36c-576910e6c4d4",
+    "missing": true
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_up.png": {
+    "time": 1656215660000,
+    "uuid": "205ab6c2-f464-4715-b46f-1f25c9393a95",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\corner_up1.png": {
+    "time": 1656215660000,
+    "uuid": "a8efee20-fce5-4352-8fe3-a8baf8d24738",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons": {
+    "time": 1656287248357.3186,
+    "uuid": "2d1b7d15-1caf-4e92-a76e-67959f21f56d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info": {
+    "time": 1656274019731.4475,
+    "uuid": "6df5514c-2919-4133-9e8a-836146acbdd3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\down_bg.png": {
+    "time": 1656215660000,
+    "uuid": "0aa44fbf-728c-4bb8-94dc-e34d57de7c02",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame.png": {
+    "time": 1656215660000,
+    "uuid": "b8705aeb-66a0-4835-b5eb-6d7cc93fbf12",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame1.png": {
+    "time": 1656215660000,
+    "uuid": "9197ecd0-e841-4470-b40a-a984384857bd",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1": {
+    "time": 1656274019758.4248,
+    "uuid": "ee11095e-2010-4dc4-b17f-51c95d89e343",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2": {
+    "time": 1656274019779.4172,
+    "uuid": "d27c7b6a-3692-44a2-9783-f5b7ddbd6dbe",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame2.png": {
+    "time": 1656215660000,
+    "uuid": "f2b17a6e-ebdb-4d53-b7af-9144053b682d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info.jpg": {
+    "time": 1656215660000,
+    "uuid": "c0a9740a-4de5-4149-a085-30680c8e1a1c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\loading.png": {
+    "time": 1656215660000,
+    "uuid": "cd217f25-b2ec-4c26-a729-7c25211ce9dd",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\logo.png": {
+    "time": 1656215662000,
+    "uuid": "b468e4c0-8531-4e04-92b4-2640d1347b76",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation": {
+    "time": 1656274019783.3994,
+    "uuid": "f4267d20-e63a-4b91-a2e0-0d4e6bb69fd3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\plate_freegames.png": {
+    "time": 1656215662000,
+    "uuid": "7399db42-2d2c-4237-95a3-167bc134c63d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X": {
+    "time": 1656274019797.3853,
+    "uuid": "33c92c87-6e1a-4ac6-a65c-3a25b42b76d7",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\shadow.jpg": {
+    "time": 1656215662000,
+    "uuid": "b52eab4a-d1e1-40a5-a56c-7603f9aa007e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\plate_ways.png": {
+    "time": 1656215662000,
+    "uuid": "5729b8c6-9032-4c05-bcf3-65bb8eb15f6c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\font\\tt0007m.ttf": {
+    "time": 1656215662000,
+    "uuid": "66b5700c-9285-4929-85f9-0264e29697da",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\numb.png": {
+    "time": 1656215662000,
+    "uuid": "9fc519eb-dbc6-4a84-9aab-c515222586a5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Wolf_reels.png": {
+    "time": 1656215662000,
+    "uuid": "878ab2ac-7703-4e00-bb0d-102cdd735066",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\3.png": {
+    "time": 1656215662000,
+    "uuid": "433cb7a4-0033-49da-ab29-c44ac6103080",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\4.png": {
+    "time": 1656215662000,
+    "uuid": "1d86dab5-3e9f-4c1b-8613-603c5f09c4d4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\2.png": {
+    "time": 1656215662000,
+    "uuid": "94d270de-53ce-4f83-9ca2-d1d599de6cce",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\1.png": {
+    "time": 1656215662000,
+    "uuid": "2d9a5459-a102-4f4d-a30c-3feca0842cc6",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\5.png": {
+    "time": 1656215662000,
+    "uuid": "c1b4054f-629b-42e3-9b67-cf79a5c83e61",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\frame\\6.png": {
+    "time": 1656215662000,
+    "uuid": "b3634281-b2ce-4ec1-b088-f861fcdd9367",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\1.png": {
+    "time": 1656215664000,
+    "uuid": "4e11b23e-0e0b-499c-bcf3-36e71a29b5a3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\2.png": {
+    "time": 1656215664000,
+    "uuid": "f4c1d492-b07e-4aeb-bfd1-0ebdee043014",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\3.png": {
+    "time": 1656215664000,
+    "uuid": "6d7ccba2-e3ba-4d3b-8297-4e6fa6121722",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\4.png": {
+    "time": 1656215664000,
+    "uuid": "e43adbb3-58d9-421d-897c-5c7e6fe837f4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\5.png": {
+    "time": 1656215664000,
+    "uuid": "4f4189e5-904a-4ee1-b4ad-854af65f3c15",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\6.png": {
+    "time": 1656215664000,
+    "uuid": "6b74a301-b76b-45ce-a9cd-a307c59673a8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\bg3.jpg": {
+    "time": 1656215664000,
+    "uuid": "a02203f9-3cc1-4895-a06c-05332dc7569f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\arrow.png": {
+    "time": 1656215664000,
+    "uuid": "9595dcf8-d30c-4fdd-92ec-d7105c52d3ea",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\info\\bg.png": {
+    "time": 1656215664000,
+    "uuid": "5a5971f5-9c58-40ea-82cd-019939e9f132",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\big_flag.png": {
+    "time": 1656215664000,
+    "uuid": "a2569d7c-6c4f-49c5-a1d9-eb4199d0587c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\bg_light.png": {
+    "time": 1656215664000,
+    "uuid": "fcaf5c16-5d00-4943-91da-e8406a19ae1e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\big_flag1.png": {
+    "time": 1656215664000,
+    "uuid": "db54aac9-a8ea-419a-aa81-d4eabe25753e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_blue.png": {
+    "time": 1656215664000,
+    "uuid": "50638c65-22c6-4989-adca-e75e70a1b52e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_blue1.png": {
+    "time": 1656215664000,
+    "uuid": "5753854f-d01d-4c66-9a84-f19ef746aa1d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_green.png": {
+    "time": 1656215664000,
+    "uuid": "b681732b-7417-4502-bb46-fa73ff77fcd4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_green1.png": {
+    "time": 1656215664000,
+    "uuid": "89c388b5-b966-4ea7-8492-4934ae52b253",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\bg_light1.png": {
+    "time": 1656215664000,
+    "uuid": "607313e7-a45b-4ef4-989e-c5281461d396",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_heavy_blue.png": {
+    "time": 1656215664000,
+    "uuid": "bd4b61aa-e1fe-4374-ba71-63fec4d45ef5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_heavy_blue1.png": {
+    "time": 1656215664000,
+    "uuid": "06cceb97-348a-49f1-8530-1daaedbbee2d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light": {
+    "time": 1656274019953.2405,
+    "uuid": "df12dab3-cb92-4d1a-9f92-fa1817228c86",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_red1.png": {
+    "time": 1656215664000,
+    "uuid": "a60c3260-375a-44b5-86a8-db960ce4999a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_yellow1.png": {
+    "time": 1656215664000,
+    "uuid": "103f6486-939e-4145-a936-3a57e83388c0",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_red.png": {
+    "time": 1656215664000,
+    "uuid": "b119f388-592e-4e1f-9c50-afa425dbec2f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\f_yellow.png": {
+    "time": 1656215664000,
+    "uuid": "54b4e22e-bbfc-4d84-887e-52a8ff3b0c8a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\plate.png": {
+    "time": 1656215664000,
+    "uuid": "e862fafb-434f-478f-81a7-85fbb30edfc5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball": {
+    "time": 1656274019963.2625,
+    "uuid": "50eb388f-dd0a-4b16-ac52-7a14a5ee4186",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\bg1.png": {
+    "time": 1656215664000,
+    "uuid": "e0227195-2425-437c-be54-60dfbcabdb53",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\bg2.jpg": {
+    "time": 1656215664000,
+    "uuid": "e3b53168-2567-465d-969e-5f21a9c7f4aa",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue": {
+    "time": 1656274019966.2566,
+    "uuid": "d1cfe634-19a8-4992-a594-fa9204665a4e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\wooden_plank.png": {
+    "time": 1656215664000,
+    "uuid": "6fb69e50-1f35-4c35-ae36-ff51ee8bef2a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\txt_cong.png": {
+    "time": 1656215664000,
+    "uuid": "b77952a3-f0b7-49a8-a40a-a66056d08f5d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light": {
+    "time": 1656274019972.249,
+    "uuid": "c17a0c4d-7553-42af-b675-2b094ae60feb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\fire.png": {
+    "time": 1656215664000,
+    "uuid": "c9db6374-4e76-4cc5-80fc-4baa4ed2fa97",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame.png": {
+    "time": 1656215664000,
+    "uuid": "62087fb2-e180-47fd-9347-2a3ec1136e13",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\ic_lock.png": {
+    "time": 1656215664000,
+    "uuid": "c3c3b4e9-dd3f-4997-8078-2fe0214db1ec",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball": {
+    "time": 1656274019982.2444,
+    "uuid": "0119743d-2ffc-4e4b-b898-9f00d4d4f243",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light.png": {
+    "time": 1656215664000,
+    "uuid": "f1dd4f85-059f-476f-98ba-e24687129cd1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel": {
+    "time": 1656274019990.204,
+    "uuid": "8a392945-76bf-445b-bb16-9fbb8dca3d26",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner": {
+    "time": 1656274019996.1943,
+    "uuid": "0ca77369-3c65-4aba-a47b-d08e8805a67d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\line.png": {
+    "time": 1656215664000,
+    "uuid": "0b047e73-b70f-43e5-8dcd-9fea15884148",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\jackpot.png": {
+    "time": 1656215664000,
+    "uuid": "8d172a27-8f2a-4f86-b99c-4484a41dcf7f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text": {
+    "time": 1656274020001.1917,
+    "uuid": "949ff983-2e44-4cf3-91cf-fd809b391910",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\big_win_animations.jpg": {
+    "time": 1656215666000,
+    "uuid": "ec565c82-300b-49c5-a054-3a66b449cfa1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\particle.png": {
+    "time": 1656215664000,
+    "uuid": "0a0c9f2b-7fe2-44e8-9b00-06e42ae6698c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\big_win_animations_2.jpg": {
+    "time": 1656215666000,
+    "uuid": "98f0f85e-5944-4135-b9ee-0132b67f3dad",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light_line.png": {
+    "time": 1656215664000,
+    "uuid": "a7e5481a-5351-4e70-a2bb-3524b385d41f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\1.png": {
+    "time": 1656215666000,
+    "uuid": "f2d61f74-aeb8-4070-9939-f6e4ef871e88",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\10.png": {
+    "time": 1656215666000,
+    "uuid": "aeef50b5-f268-4788-afca-6f6ca310a39d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\2.png": {
+    "time": 1656215666000,
+    "uuid": "5858c413-2553-4118-a0b1-61aaa5fdc437",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\25.png": {
+    "time": 1656215666000,
+    "uuid": "092bf07b-be5a-42f0-abf8-5eef513c2569",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\15.png": {
+    "time": 1656215666000,
+    "uuid": "5ab4d353-9ae0-4f8e-9a71-9af3540bbdf4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\3.png": {
+    "time": 1656215666000,
+    "uuid": "5c93641d-6099-4b16-82c1-cb267b8df372",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\4.png": {
+    "time": 1656215666000,
+    "uuid": "0895f852-c6dd-41b2-87f0-d5e1f64db0cc",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\5.png": {
+    "time": 1656215666000,
+    "uuid": "c5e89bb2-5d51-430c-ac45-c0dd617bc09d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\8.png": {
+    "time": 1656215666000,
+    "uuid": "b1a1fc6e-67ef-456c-9e47-f915f40de9cb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\mini.png": {
+    "time": 1656215666000,
+    "uuid": "0c86a62a-f573-46c5-be52-cf1c34214d4b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\50.png": {
+    "time": 1656215666000,
+    "uuid": "68f9dd14-9ce0-4d76-85ca-b5d977eddc79",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\X\\shadow.png": {
+    "time": 1656215666000,
+    "uuid": "d555b98e-3af2-4e1a-b0e0-043939dbcda9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\3.png": {
+    "time": 1656215664000,
+    "uuid": "ef6c79d4-5e29-421e-8c4a-1841430c5dbc",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\1.png": {
+    "time": 1656215664000,
+    "uuid": "87d7b863-09c6-4f11-86e9-78e57b0ed246",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\4.png": {
+    "time": 1656215664000,
+    "uuid": "b4821cd7-2f18-4c35-954c-2386ddc0de8e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\1.png": {
+    "time": 1656215664000,
+    "uuid": "54cfaa20-e14d-4e5d-8dec-03928ac31e0f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\10.png": {
+    "time": 1656215664000,
+    "uuid": "e17d1dd8-de72-4534-b882-682dbc5bdf05",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\11.png": {
+    "time": 1656215664000,
+    "uuid": "f0b1a60f-a700-4155-97d4-62e94f902abf",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\2.png": {
+    "time": 1656215664000,
+    "uuid": "3aec341a-620b-456f-a18b-6bd381decee9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame1\\light\\2.png": {
+    "time": 1656215664000,
+    "uuid": "107ea049-4d93-46e4-ae15-478f3c285a18",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\3.png": {
+    "time": 1656215664000,
+    "uuid": "96bee7a2-59fc-4d89-b001-ba0b00284de2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\4.png": {
+    "time": 1656215664000,
+    "uuid": "17744f7a-2bf8-4243-a420-a1f7878938a3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\5.png": {
+    "time": 1656215664000,
+    "uuid": "1b57ebb7-7307-444f-aaa3-4a097331b96f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\6.png": {
+    "time": 1656215664000,
+    "uuid": "619851dc-9ed9-40ce-a77c-0233e569a381",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\7.png": {
+    "time": 1656215664000,
+    "uuid": "6cda94be-3172-4bed-bd06-2e9abb372594",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\8.png": {
+    "time": 1656215666000,
+    "uuid": "1f5b4816-4f2b-4209-9fe1-c076d1d3d968",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\big_fireball\\9.png": {
+    "time": 1656215666000,
+    "uuid": "c1452971-5a86-4ee5-87e6-36c987382c73",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue\\1.png": {
+    "time": 1656215666000,
+    "uuid": "b24ba711-fbe4-4360-bca6-6c359e3332c4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue\\2.png": {
+    "time": 1656215666000,
+    "uuid": "cbef74ca-2837-4544-9db1-18ec146e4f39",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\1.png": {
+    "time": 1656215666000,
+    "uuid": "110ed89b-679e-47f3-b727-a6c7dab06553",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\frame_blue\\3.png": {
+    "time": 1656215666000,
+    "uuid": "c674b26d-0a5b-4372-828c-30d7468bc6a1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\2.png": {
+    "time": 1656215666000,
+    "uuid": "612aa57d-5abf-47cb-9988-95d7113372eb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\3.png": {
+    "time": 1656215666000,
+    "uuid": "14ca026a-54c5-484f-8ad6-d724cdd8d196",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\1.png": {
+    "time": 1656215666000,
+    "uuid": "e7bb6f73-2470-468e-9736-77718c306460",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\10.png": {
+    "time": 1656215666000,
+    "uuid": "cf33d2f9-2f43-43a6-84ca-41083f994278",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\4.png": {
+    "time": 1656215666000,
+    "uuid": "80946e47-1916-4afe-abf9-563352f08579",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\11.png": {
+    "time": 1656215666000,
+    "uuid": "530ea1ae-d6ce-417f-897b-361e6842a135",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\2.png": {
+    "time": 1656215666000,
+    "uuid": "644bf6d9-ee53-40ef-acc6-967ba8b29fc8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\3.png": {
+    "time": 1656215666000,
+    "uuid": "45445bd2-4a34-489c-aa4c-ef518d41a783",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\4.png": {
+    "time": 1656215666000,
+    "uuid": "185f3021-45e5-400f-b3ba-4206616fcdeb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\5.png": {
+    "time": 1656215666000,
+    "uuid": "f4b6004a-e420-480f-bb96-51fb1218bbb0",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\5.png": {
+    "time": 1656215666000,
+    "uuid": "cc6b303a-1dd9-46ff-ace5-c778b718d81c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\light\\6.png": {
+    "time": 1656215666000,
+    "uuid": "afbd0b27-cf7b-4a75-8dd8-67022fe50d38",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\6.png": {
+    "time": 1656215666000,
+    "uuid": "15aceb34-1e42-422b-82f3-48101de9bbd8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\7.png": {
+    "time": 1656215666000,
+    "uuid": "2419ea5c-5063-4398-946a-aa00f4be8071",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\8.png": {
+    "time": 1656215666000,
+    "uuid": "de23f053-3c29-4aaa-b6d2-6bdc6e22ac68",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\mini fireball\\9.png": {
+    "time": 1656215666000,
+    "uuid": "5237ec1b-4eae-49e5-b20c-c87cc4e6d246",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\1.png": {
+    "time": 1656215666000,
+    "uuid": "e35fa41d-fe97-4f6e-a430-7c2225159def",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\2.png": {
+    "time": 1656215666000,
+    "uuid": "dba50ae3-bc48-4a20-a540-44d4de52b103",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\3.png": {
+    "time": 1656215666000,
+    "uuid": "ff518229-d9b0-42c3-bf9e-407e64c1fe1a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\4.png": {
+    "time": 1656215666000,
+    "uuid": "4f878ade-5369-494a-b93d-3040fce324e9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\5.png": {
+    "time": 1656215666000,
+    "uuid": "ea974d7f-4812-432f-8fc7-325f420a9b78",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\6.png": {
+    "time": 1656215666000,
+    "uuid": "581c24ef-a865-4e9c-8c77-fe57f737044e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\up_panel\\7.png": {
+    "time": 1656215666000,
+    "uuid": "6d3c2e58-afda-4c33-beb0-5c53dafea011",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\1.png": {
+    "time": 1656215666000,
+    "uuid": "cf1a448d-f8e9-46c5-b028-f53edc997f5d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\2.png": {
+    "time": 1656215666000,
+    "uuid": "fea6d5a7-a15b-45cd-9b40-a7ef24ebfcbf",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\3.png": {
+    "time": 1656215666000,
+    "uuid": "b2296232-dd38-42eb-8b2b-7eb4aa27e474",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\4.png": {
+    "time": 1656215666000,
+    "uuid": "6520b010-d03b-4300-ba89-20db6681d3a7",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\5.png": {
+    "time": 1656215666000,
+    "uuid": "41f5a53e-d4f4-4aa4-a9f8-749fb4726d48",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\minigame2\\winner\\6.png": {
+    "time": 1656215666000,
+    "uuid": "756a1be5-8fb2-4d41-82d6-31334111a889",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Big.png": {
+    "time": 1656215666000,
+    "uuid": "d79f5c8b-03bc-4966-bcc6-671c4843126a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Layer-3.png": {
+    "time": 1656215666000,
+    "uuid": "82b6d59c-8acc-4c7b-aa0b-6dd60288dbaf",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Layer-2.png": {
+    "time": 1656215666000,
+    "uuid": "4a3faafc-de2a-48c9-9f5c-3b5957978fff",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Win.png": {
+    "time": 1656215666000,
+    "uuid": "4c33e7b1-5f96-44f0-b242-055490014bec",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0002_Layer-1.png": {
+    "time": 1656215666000,
+    "uuid": "5abd4981-968e-4b19-a8ad-8d40ed9afbb8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-9.plist.meta": {
+    "time": 1656286579442.3584
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-10.plist.meta": {
+    "time": 1656286579614.194
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-cat.plist.meta": {
+    "time": 1656286580071.7585
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-a.plist.meta": {
+    "time": 1656286579948.8765
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-deer.plist.meta": {
+    "time": 1656286579973.8528
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-j.plist.meta": {
+    "time": 1656286580548.3005
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-k.plist.meta": {
+    "time": 1656286580420.423
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-owl.plist.meta": {
+    "time": 1656286580432.4114
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-q.plist.meta": {
+    "time": 1656286580386.4563
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-rabbit.plist.meta": {
+    "time": 1656286580493.3594
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wolf.plist.meta": {
+    "time": 1656286581234.645
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-9.png.meta": {
+    "time": 1656286580725.1313
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-10.png.meta": {
+    "time": 1656286580866.9956
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-a.png.meta": {
+    "time": 1656286580827.0356
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-cat.png.meta": {
+    "time": 1656286580967.8994
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-deer.png.meta": {
+    "time": 1656286581011.8599
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-j.png.meta": {
+    "time": 1656286581051.8196
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-k.png.meta": {
+    "time": 1656286581074.7986
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-owl.png.meta": {
+    "time": 1656286581142.7324
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-q.png.meta": {
+    "time": 1656286581155.7192
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-rabbit.png.meta": {
+    "time": 1656286581158.7175
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wolf.png.meta": {
+    "time": 1656286581353.5317
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-9.plist": {
+    "time": 1656285848177.48,
+    "uuid": "2e3ce961-6035-4d1a-9859-8aecfb91239a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-10.plist": {
+    "time": 1656286041830.3738,
+    "uuid": "19706df9-6561-49be-917a-40616255827e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-a.plist": {
+    "time": 1656286072875.6907,
+    "uuid": "7ebc59dd-0337-4f82-9ee0-f76ad27e79f3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-deer.plist": {
+    "time": 1656286167631.0933,
+    "uuid": "c226f49c-7940-4e62-ab92-274f8c391de4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-cat.plist": {
+    "time": 1656286134755.5293,
+    "uuid": "2a161adb-2513-44e6-becc-608970f71a41",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-q.plist": {
+    "time": 1656286376710.1938,
+    "uuid": "ba99c394-d79b-4a49-a112-c2ef0d90c8a8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-k.plist": {
+    "time": 1656286228173.2085,
+    "uuid": "12ed1401-db7f-4682-886d-e8f05a76e1e9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-owl.plist": {
+    "time": 1656286296922.4785,
+    "uuid": "8031c620-753b-4f65-9146-7f5c4eb10892",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-rabbit.plist": {
+    "time": 1656286347800.8325,
+    "uuid": "8ef14cdb-7536-442c-9a0d-401eaf62edec",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-j.plist": {
+    "time": 1656286268726.4414,
+    "uuid": "a1ef0343-c032-43f6-8034-488d5d128b54",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-9.png": {
+    "time": 1656285847411.1665,
+    "uuid": "bfd34496-1403-4247-8980-8a736fa42458",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-a.png": {
+    "time": 1656286072869.6946,
+    "uuid": "de106f7a-27d5-4e2a-ba2f-63b163f6524b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-10.png": {
+    "time": 1656286041827.3738,
+    "uuid": "eb6c39aa-1bd8-406b-8112-537ae8cab7f4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-cat.png": {
+    "time": 1656286134752.5305,
+    "uuid": "f4c2be2d-a9d7-440e-aaaa-47f41ea6b4fe",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-deer.png": {
+    "time": 1656286167629.095,
+    "uuid": "6ad5462f-8163-429d-8cb0-86a1a7b72a82",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-j.png": {
+    "time": 1656286268720.4434,
+    "uuid": "6c73939f-9e11-48e6-8a8e-5eed4f830c52",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-k.png": {
+    "time": 1656286228170.211,
+    "uuid": "e69eb41e-3389-4784-85f0-d9de245c079e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-owl.png": {
+    "time": 1656286296918.479,
+    "uuid": "0d6c39ef-d1b1-4e52-a608-dfab8b4dd6b3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-q.png": {
+    "time": 1656286376707.1946,
+    "uuid": "4bb0967e-a19f-4233-b3ee-c3c9c6dbe637",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-rabbit.png": {
+    "time": 1656286347794.8364,
+    "uuid": "9b6a3b6d-7f5f-4d9c-a20e-2763f55c6a5f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wolf.plist": {
+    "time": 1656286506527.1067,
+    "uuid": "efb34800-b693-4f96-8b85-c58cb776efe9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wolf.png": {
+    "time": 1656286506502.1277,
+    "uuid": "43be0250-9919-48dc-b6c0-786fe9a28937",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wild.plist.meta": {
+    "time": 1656286706618.7964
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wild.png.meta": {
+    "time": 1656286706678.7385
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wild.plist": {
+    "time": 1656286696024.9224,
+    "uuid": "a22225f8-6b24-4dde-afe0-b145a452dc7b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-wild.png": {
+    "time": 1656286696021.9243,
+    "uuid": "0efb8de2-7b36-4e07-b3f7-17b24a0a7db2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-bonus.png.meta": {
+    "time": 1656287239772.3103
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-bonus.plist.meta": {
+    "time": 1656287239806.279
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-bonus.png": {
+    "time": 1656287217146.945,
+    "uuid": "c5c0370c-e374-4750-a252-9d2dcdd193ca",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\icon-bonus.plist": {
+    "time": 1656287217148.9434,
+    "uuid": "21ccd349-9f23-47ee-b6f9-43944438e577",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scene.meta": {
+    "time": 1656291057214.214
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scene\\main.scene.meta": {
+    "time": 1656291057238.194
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scene": {
+    "time": 1656291057212.2183,
+    "uuid": "ee820bb2-4064-4725-b5d4-cf6af2fd96ef",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scene\\main.scene": {
+    "time": 1656304489024.3064,
+    "uuid": "7bb19b5f-bf71-4e1a-be86-8a33cdec546f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button.meta": {
+    "time": 1656293067832.9148
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\1.png.meta": {
+    "time": 1656293088498.1548
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\plus.png.meta": {
+    "time": 1656293088518.1382
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\reload.png.meta": {
+    "time": 1656293088522.1333
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button": {
+    "time": 1656293122876.3108,
+    "uuid": "a966128b-8859-454a-b842-8ff1d51d1c2e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\1.png": {
+    "time": 1656350212808.624,
+    "uuid": "ac617d4b-a674-4f4a-8fc8-063fe7811802",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\plus.png": {
+    "time": 1656350256085.965,
+    "uuid": "04d9c083-a89d-4acb-ba18-77e38031a962",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\reload.png": {
+    "time": 1656350310938.7466,
+    "uuid": "ba1e5d6f-c49a-4374-860f-a004707ab41b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\minus.png.meta": {
+    "time": 1656293122945.221
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\play_button\\minus.png": {
+    "time": 1656350283113.4524,
+    "uuid": "e88bd23e-a19f-4286-8152-12b4f4770f65",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scripts.meta": {
+    "time": 1656306819780.7068
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scripts": {
+    "time": 1656306859410.8022,
+    "uuid": "7a479071-6c09-440e-a17d-4e280361d999",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scripts\\logoAnim.ts.meta": {
+    "time": 1656306859414.7964
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\scripts\\logoAnim.ts": {
+    "time": 1656309649468.9258,
+    "uuid": "4c2469cc-0b45-4639-8c08-1f49cd29602e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\logo-effect.png.meta": {
+    "time": 1656308773864.0247
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\logo-effect.png": {
+    "time": 1656308701000,
+    "uuid": "8c70c02e-6851-48f0-b146-158d08257061",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources": {
+    "time": 1656273984777.8708,
+    "uuid": "c31182ea-a362-409b-a56c-0a308e0f6152",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scene": {
+    "time": 1656332518562.5764,
+    "uuid": "ee820bb2-4064-4725-b5d4-cf6af2fd96ef",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts": {
+    "time": 1656596079310.73,
+    "uuid": "7a479071-6c09-440e-a17d-4e280361d999",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image": {
+    "time": 1656342541175.8955,
+    "uuid": "c0478642-de28-490b-a886-45b138ab79c2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\logoAnim.ts": {
+    "time": 1656318227603.8147,
+    "uuid": "4c2469cc-0b45-4639-8c08-1f49cd29602e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\bg1.jpg": {
+    "time": 1656215660000,
+    "uuid": "eef59fc2-1d93-4eba-a97a-6ab8bd28dd68",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\bg_slot.png": {
+    "time": 1656215660000,
+    "uuid": "a6c2ceb4-4dca-4da1-a45a-7fd1c93a07a1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_down.png": {
+    "time": 1656215660000,
+    "uuid": "82c5d813-df14-4556-bb71-b5a6278ab61e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_down1.png": {
+    "time": 1656215660000,
+    "uuid": "831e4949-1e70-4ba2-91f5-a6f24fe117bb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_up.png": {
+    "time": 1656215660000,
+    "uuid": "205ab6c2-f464-4715-b46f-1f25c9393a95",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_up1.png": {
+    "time": 1656215660000,
+    "uuid": "a8efee20-fce5-4352-8fe3-a8baf8d24738",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\down_bg.png": {
+    "time": 1656215660000,
+    "uuid": "0aa44fbf-728c-4bb8-94dc-e34d57de7c02",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\font": {
+    "time": 1656274019700.4912,
+    "uuid": "9a4ba90c-f172-4473-b044-eb99f5b9555e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame": {
+    "time": 1656274019707.471,
+    "uuid": "d40ce75e-1448-46d0-9298-d346037134cc",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame.png": {
+    "time": 1656215660000,
+    "uuid": "b8705aeb-66a0-4835-b5eb-6d7cc93fbf12",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame1.png": {
+    "time": 1656215660000,
+    "uuid": "9197ecd0-e841-4470-b40a-a984384857bd",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame2.png": {
+    "time": 1656215660000,
+    "uuid": "f2b17a6e-ebdb-4d53-b7af-9144053b682d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons": {
+    "time": 1656537914357.6353,
+    "uuid": "2d1b7d15-1caf-4e92-a76e-67959f21f56d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info": {
+    "time": 1656274019731.4475,
+    "uuid": "6df5514c-2919-4133-9e8a-836146acbdd3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info.jpg": {
+    "time": 1656215660000,
+    "uuid": "c0a9740a-4de5-4149-a085-30680c8e1a1c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\loading.png": {
+    "time": 1656215660000,
+    "uuid": "cd217f25-b2ec-4c26-a729-7c25211ce9dd",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\logo-effect.png": {
+    "time": 1656308701000,
+    "uuid": "8c70c02e-6851-48f0-b146-158d08257061",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\logo.png": {
+    "time": 1656215662000,
+    "uuid": "b468e4c0-8531-4e04-92b4-2640d1347b76",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1": {
+    "time": 1656274019758.4248,
+    "uuid": "ee11095e-2010-4dc4-b17f-51c95d89e343",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2": {
+    "time": 1656274019779.4172,
+    "uuid": "d27c7b6a-3692-44a2-9783-f5b7ddbd6dbe",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\numb.png": {
+    "time": 1656215662000,
+    "uuid": "9fc519eb-dbc6-4a84-9aab-c515222586a5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\plate_freegames.png": {
+    "time": 1656215662000,
+    "uuid": "7399db42-2d2c-4237-95a3-167bc134c63d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\plate_ways.png": {
+    "time": 1656215662000,
+    "uuid": "5729b8c6-9032-4c05-bcf3-65bb8eb15f6c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button": {
+    "time": 1656293122876.3108,
+    "uuid": "a966128b-8859-454a-b842-8ff1d51d1c2e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\shadow.jpg": {
+    "time": 1656215662000,
+    "uuid": "b52eab4a-d1e1-40a5-a56c-7603f9aa007e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation": {
+    "time": 1656274019783.3994,
+    "uuid": "f4267d20-e63a-4b91-a2e0-0d4e6bb69fd3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Wolf_reels.png": {
+    "time": 1656215662000,
+    "uuid": "878ab2ac-7703-4e00-bb0d-102cdd735066",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X": {
+    "time": 1656274019797.3853,
+    "uuid": "33c92c87-6e1a-4ac6-a65c-3a25b42b76d7",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\font\\tt0007m.ttf": {
+    "time": 1656215662000,
+    "uuid": "66b5700c-9285-4929-85f9-0264e29697da",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\1.png": {
+    "time": 1656215662000,
+    "uuid": "2d9a5459-a102-4f4d-a30c-3feca0842cc6",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\2.png": {
+    "time": 1656215662000,
+    "uuid": "94d270de-53ce-4f83-9ca2-d1d599de6cce",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\3.png": {
+    "time": 1656215662000,
+    "uuid": "433cb7a4-0033-49da-ab29-c44ac6103080",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\4.png": {
+    "time": 1656215662000,
+    "uuid": "1d86dab5-3e9f-4c1b-8613-603c5f09c4d4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\5.png": {
+    "time": 1656215662000,
+    "uuid": "c1b4054f-629b-42e3-9b67-cf79a5c83e61",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\6.png": {
+    "time": 1656215662000,
+    "uuid": "b3634281-b2ce-4ec1-b088-f861fcdd9367",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-10.plist": {
+    "time": 1656286041830.3738,
+    "uuid": "19706df9-6561-49be-917a-40616255827e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-10.png": {
+    "time": 1656286041827.3738,
+    "uuid": "eb6c39aa-1bd8-406b-8112-537ae8cab7f4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-9.plist": {
+    "time": 1656285848177.48,
+    "uuid": "2e3ce961-6035-4d1a-9859-8aecfb91239a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-9.png": {
+    "time": 1656285847411.1665,
+    "uuid": "bfd34496-1403-4247-8980-8a736fa42458",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-a.plist": {
+    "time": 1656286072875.6907,
+    "uuid": "7ebc59dd-0337-4f82-9ee0-f76ad27e79f3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-a.png": {
+    "time": 1656286072869.6946,
+    "uuid": "de106f7a-27d5-4e2a-ba2f-63b163f6524b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-bonus.plist": {
+    "time": 1656287217148.9434,
+    "uuid": "21ccd349-9f23-47ee-b6f9-43944438e577",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-bonus.png": {
+    "time": 1656287217146.945,
+    "uuid": "c5c0370c-e374-4750-a252-9d2dcdd193ca",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-cat.plist": {
+    "time": 1656286134755.5293,
+    "uuid": "2a161adb-2513-44e6-becc-608970f71a41",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-cat.png": {
+    "time": 1656286134752.5305,
+    "uuid": "f4c2be2d-a9d7-440e-aaaa-47f41ea6b4fe",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-deer.plist": {
+    "time": 1656286167631.0933,
+    "uuid": "c226f49c-7940-4e62-ab92-274f8c391de4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-deer.png": {
+    "time": 1656286167629.095,
+    "uuid": "6ad5462f-8163-429d-8cb0-86a1a7b72a82",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-j.plist": {
+    "time": 1656286268726.4414,
+    "uuid": "a1ef0343-c032-43f6-8034-488d5d128b54",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-j.png": {
+    "time": 1656286268720.4434,
+    "uuid": "6c73939f-9e11-48e6-8a8e-5eed4f830c52",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-k.plist": {
+    "time": 1656286228173.2085,
+    "uuid": "12ed1401-db7f-4682-886d-e8f05a76e1e9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-k.png": {
+    "time": 1656286228170.211,
+    "uuid": "e69eb41e-3389-4784-85f0-d9de245c079e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-owl.plist": {
+    "time": 1656286296922.4785,
+    "uuid": "8031c620-753b-4f65-9146-7f5c4eb10892",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-owl.png": {
+    "time": 1656286296918.479,
+    "uuid": "0d6c39ef-d1b1-4e52-a608-dfab8b4dd6b3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-q.plist": {
+    "time": 1656286376710.1938,
+    "uuid": "ba99c394-d79b-4a49-a112-c2ef0d90c8a8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-q.png": {
+    "time": 1656286376707.1946,
+    "uuid": "4bb0967e-a19f-4233-b3ee-c3c9c6dbe637",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-rabbit.plist": {
+    "time": 1656286347800.8325,
+    "uuid": "8ef14cdb-7536-442c-9a0d-401eaf62edec",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-rabbit.png": {
+    "time": 1656286347794.8364,
+    "uuid": "9b6a3b6d-7f5f-4d9c-a20e-2763f55c6a5f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wild.plist": {
+    "time": 1656286696024.9224,
+    "uuid": "a22225f8-6b24-4dde-afe0-b145a452dc7b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wild.png": {
+    "time": 1656286696021.9243,
+    "uuid": "0efb8de2-7b36-4e07-b3f7-17b24a0a7db2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wolf.plist": {
+    "time": 1656286506527.1067,
+    "uuid": "efb34800-b693-4f96-8b85-c58cb776efe9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wolf.png": {
+    "time": 1656286506502.1277,
+    "uuid": "43be0250-9919-48dc-b6c0-786fe9a28937",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\1.png": {
+    "time": 1656215664000,
+    "uuid": "4e11b23e-0e0b-499c-bcf3-36e71a29b5a3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\2.png": {
+    "time": 1656215664000,
+    "uuid": "f4c1d492-b07e-4aeb-bfd1-0ebdee043014",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\3.png": {
+    "time": 1656215664000,
+    "uuid": "6d7ccba2-e3ba-4d3b-8297-4e6fa6121722",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\4.png": {
+    "time": 1656215664000,
+    "uuid": "e43adbb3-58d9-421d-897c-5c7e6fe837f4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\5.png": {
+    "time": 1656215664000,
+    "uuid": "4f4189e5-904a-4ee1-b4ad-854af65f3c15",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\6.png": {
+    "time": 1656215664000,
+    "uuid": "6b74a301-b76b-45ce-a9cd-a307c59673a8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\arrow.png": {
+    "time": 1656215664000,
+    "uuid": "9595dcf8-d30c-4fdd-92ec-d7105c52d3ea",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\bg.png": {
+    "time": 1656215664000,
+    "uuid": "5a5971f5-9c58-40ea-82cd-019939e9f132",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\bg3.jpg": {
+    "time": 1656215664000,
+    "uuid": "a02203f9-3cc1-4895-a06c-05332dc7569f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\bg_light.png": {
+    "time": 1656215664000,
+    "uuid": "fcaf5c16-5d00-4943-91da-e8406a19ae1e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\bg_light1.png": {
+    "time": 1656215664000,
+    "uuid": "607313e7-a45b-4ef4-989e-c5281461d396",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\big_flag.png": {
+    "time": 1656215664000,
+    "uuid": "a2569d7c-6c4f-49c5-a1d9-eb4199d0587c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\big_flag1.png": {
+    "time": 1656215664000,
+    "uuid": "db54aac9-a8ea-419a-aa81-d4eabe25753e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_blue.png": {
+    "time": 1656215664000,
+    "uuid": "50638c65-22c6-4989-adca-e75e70a1b52e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_blue1.png": {
+    "time": 1656215664000,
+    "uuid": "5753854f-d01d-4c66-9a84-f19ef746aa1d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_green.png": {
+    "time": 1656215664000,
+    "uuid": "b681732b-7417-4502-bb46-fa73ff77fcd4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_green1.png": {
+    "time": 1656215664000,
+    "uuid": "89c388b5-b966-4ea7-8492-4934ae52b253",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_heavy_blue.png": {
+    "time": 1656215664000,
+    "uuid": "bd4b61aa-e1fe-4374-ba71-63fec4d45ef5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_heavy_blue1.png": {
+    "time": 1656215664000,
+    "uuid": "06cceb97-348a-49f1-8530-1daaedbbee2d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_red.png": {
+    "time": 1656215664000,
+    "uuid": "b119f388-592e-4e1f-9c50-afa425dbec2f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_red1.png": {
+    "time": 1656215664000,
+    "uuid": "a60c3260-375a-44b5-86a8-db960ce4999a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_yellow.png": {
+    "time": 1656215664000,
+    "uuid": "54b4e22e-bbfc-4d84-887e-52a8ff3b0c8a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_yellow1.png": {
+    "time": 1656215664000,
+    "uuid": "103f6486-939e-4145-a936-3a57e83388c0",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light": {
+    "time": 1656274019953.2405,
+    "uuid": "df12dab3-cb92-4d1a-9f92-fa1817228c86",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\plate.png": {
+    "time": 1656215664000,
+    "uuid": "e862fafb-434f-478f-81a7-85fbb30edfc5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\txt_cong.png": {
+    "time": 1656215664000,
+    "uuid": "b77952a3-f0b7-49a8-a40a-a66056d08f5d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\wooden_plank.png": {
+    "time": 1656215664000,
+    "uuid": "6fb69e50-1f35-4c35-ae36-ff51ee8bef2a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\bg1.png": {
+    "time": 1656215664000,
+    "uuid": "e0227195-2425-437c-be54-60dfbcabdb53",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\bg2.jpg": {
+    "time": 1656215664000,
+    "uuid": "e3b53168-2567-465d-969e-5f21a9c7f4aa",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball": {
+    "time": 1656274019963.2625,
+    "uuid": "50eb388f-dd0a-4b16-ac52-7a14a5ee4186",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\fire.png": {
+    "time": 1656215664000,
+    "uuid": "c9db6374-4e76-4cc5-80fc-4baa4ed2fa97",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame.png": {
+    "time": 1656215664000,
+    "uuid": "62087fb2-e180-47fd-9347-2a3ec1136e13",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue": {
+    "time": 1656274019966.2566,
+    "uuid": "d1cfe634-19a8-4992-a594-fa9204665a4e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\ic_lock.png": {
+    "time": 1656215664000,
+    "uuid": "c3c3b4e9-dd3f-4997-8078-2fe0214db1ec",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\jackpot.png": {
+    "time": 1656215664000,
+    "uuid": "8d172a27-8f2a-4f86-b99c-4484a41dcf7f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light": {
+    "time": 1656274019972.249,
+    "uuid": "c17a0c4d-7553-42af-b675-2b094ae60feb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light.png": {
+    "time": 1656215664000,
+    "uuid": "f1dd4f85-059f-476f-98ba-e24687129cd1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light_line.png": {
+    "time": 1656215664000,
+    "uuid": "a7e5481a-5351-4e70-a2bb-3524b385d41f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\line.png": {
+    "time": 1656215664000,
+    "uuid": "0b047e73-b70f-43e5-8dcd-9fea15884148",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball": {
+    "time": 1656274019982.2444,
+    "uuid": "0119743d-2ffc-4e4b-b898-9f00d4d4f243",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\particle.png": {
+    "time": 1656215664000,
+    "uuid": "0a0c9f2b-7fe2-44e8-9b00-06e42ae6698c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel": {
+    "time": 1656274019990.204,
+    "uuid": "8a392945-76bf-445b-bb16-9fbb8dca3d26",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner": {
+    "time": 1656274019996.1943,
+    "uuid": "0ca77369-3c65-4aba-a47b-d08e8805a67d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\1.png": {
+    "time": 1656350212808.624,
+    "uuid": "ac617d4b-a674-4f4a-8fc8-063fe7811802",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\minus.png": {
+    "time": 1656350283113.4524,
+    "uuid": "e88bd23e-a19f-4286-8152-12b4f4770f65",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\plus.png": {
+    "time": 1656350256085.965,
+    "uuid": "04d9c083-a89d-4acb-ba18-77e38031a962",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\reload.png": {
+    "time": 1656350310938.7466,
+    "uuid": "ba1e5d6f-c49a-4374-860f-a004707ab41b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\big_win_animations.jpg": {
+    "time": 1656215666000,
+    "uuid": "ec565c82-300b-49c5-a054-3a66b449cfa1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\big_win_animations_2.jpg": {
+    "time": 1656215666000,
+    "uuid": "98f0f85e-5944-4135-b9ee-0132b67f3dad",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text": {
+    "time": 1656274020001.1917,
+    "uuid": "949ff983-2e44-4cf3-91cf-fd809b391910",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\1.png": {
+    "time": 1656215666000,
+    "uuid": "f2d61f74-aeb8-4070-9939-f6e4ef871e88",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\10.png": {
+    "time": 1656215666000,
+    "uuid": "aeef50b5-f268-4788-afca-6f6ca310a39d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\15.png": {
+    "time": 1656215666000,
+    "uuid": "5ab4d353-9ae0-4f8e-9a71-9af3540bbdf4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\2.png": {
+    "time": 1656215666000,
+    "uuid": "5858c413-2553-4118-a0b1-61aaa5fdc437",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\25.png": {
+    "time": 1656215666000,
+    "uuid": "092bf07b-be5a-42f0-abf8-5eef513c2569",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\3.png": {
+    "time": 1656215666000,
+    "uuid": "5c93641d-6099-4b16-82c1-cb267b8df372",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\4.png": {
+    "time": 1656215666000,
+    "uuid": "0895f852-c6dd-41b2-87f0-d5e1f64db0cc",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\5.png": {
+    "time": 1656215666000,
+    "uuid": "c5e89bb2-5d51-430c-ac45-c0dd617bc09d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\50.png": {
+    "time": 1656215666000,
+    "uuid": "68f9dd14-9ce0-4d76-85ca-b5d977eddc79",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\8.png": {
+    "time": 1656215666000,
+    "uuid": "b1a1fc6e-67ef-456c-9e47-f915f40de9cb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\mini.png": {
+    "time": 1656215666000,
+    "uuid": "0c86a62a-f573-46c5-be52-cf1c34214d4b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\shadow.png": {
+    "time": 1656215666000,
+    "uuid": "d555b98e-3af2-4e1a-b0e0-043939dbcda9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\1.png": {
+    "time": 1656215664000,
+    "uuid": "87d7b863-09c6-4f11-86e9-78e57b0ed246",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\2.png": {
+    "time": 1656215664000,
+    "uuid": "107ea049-4d93-46e4-ae15-478f3c285a18",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\3.png": {
+    "time": 1656215664000,
+    "uuid": "ef6c79d4-5e29-421e-8c4a-1841430c5dbc",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\4.png": {
+    "time": 1656215664000,
+    "uuid": "b4821cd7-2f18-4c35-954c-2386ddc0de8e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\1.png": {
+    "time": 1656215664000,
+    "uuid": "54cfaa20-e14d-4e5d-8dec-03928ac31e0f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\10.png": {
+    "time": 1656215664000,
+    "uuid": "e17d1dd8-de72-4534-b882-682dbc5bdf05",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\11.png": {
+    "time": 1656215664000,
+    "uuid": "f0b1a60f-a700-4155-97d4-62e94f902abf",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\2.png": {
+    "time": 1656215664000,
+    "uuid": "3aec341a-620b-456f-a18b-6bd381decee9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\3.png": {
+    "time": 1656215664000,
+    "uuid": "96bee7a2-59fc-4d89-b001-ba0b00284de2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\4.png": {
+    "time": 1656215664000,
+    "uuid": "17744f7a-2bf8-4243-a420-a1f7878938a3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\5.png": {
+    "time": 1656215664000,
+    "uuid": "1b57ebb7-7307-444f-aaa3-4a097331b96f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\6.png": {
+    "time": 1656215664000,
+    "uuid": "619851dc-9ed9-40ce-a77c-0233e569a381",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\7.png": {
+    "time": 1656215664000,
+    "uuid": "6cda94be-3172-4bed-bd06-2e9abb372594",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\8.png": {
+    "time": 1656215666000,
+    "uuid": "1f5b4816-4f2b-4209-9fe1-c076d1d3d968",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\9.png": {
+    "time": 1656215666000,
+    "uuid": "c1452971-5a86-4ee5-87e6-36c987382c73",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue\\1.png": {
+    "time": 1656215666000,
+    "uuid": "b24ba711-fbe4-4360-bca6-6c359e3332c4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue\\2.png": {
+    "time": 1656215666000,
+    "uuid": "cbef74ca-2837-4544-9db1-18ec146e4f39",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue\\3.png": {
+    "time": 1656215666000,
+    "uuid": "c674b26d-0a5b-4372-828c-30d7468bc6a1",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\1.png": {
+    "time": 1656215666000,
+    "uuid": "110ed89b-679e-47f3-b727-a6c7dab06553",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\2.png": {
+    "time": 1656215666000,
+    "uuid": "612aa57d-5abf-47cb-9988-95d7113372eb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\3.png": {
+    "time": 1656215666000,
+    "uuid": "14ca026a-54c5-484f-8ad6-d724cdd8d196",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\4.png": {
+    "time": 1656215666000,
+    "uuid": "80946e47-1916-4afe-abf9-563352f08579",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\5.png": {
+    "time": 1656215666000,
+    "uuid": "f4b6004a-e420-480f-bb96-51fb1218bbb0",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\6.png": {
+    "time": 1656215666000,
+    "uuid": "afbd0b27-cf7b-4a75-8dd8-67022fe50d38",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\1.png": {
+    "time": 1656215666000,
+    "uuid": "e7bb6f73-2470-468e-9736-77718c306460",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\10.png": {
+    "time": 1656215666000,
+    "uuid": "cf33d2f9-2f43-43a6-84ca-41083f994278",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\11.png": {
+    "time": 1656215666000,
+    "uuid": "530ea1ae-d6ce-417f-897b-361e6842a135",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\2.png": {
+    "time": 1656215666000,
+    "uuid": "644bf6d9-ee53-40ef-acc6-967ba8b29fc8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\3.png": {
+    "time": 1656215666000,
+    "uuid": "45445bd2-4a34-489c-aa4c-ef518d41a783",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\4.png": {
+    "time": 1656215666000,
+    "uuid": "185f3021-45e5-400f-b3ba-4206616fcdeb",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\5.png": {
+    "time": 1656215666000,
+    "uuid": "cc6b303a-1dd9-46ff-ace5-c778b718d81c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\6.png": {
+    "time": 1656215666000,
+    "uuid": "15aceb34-1e42-422b-82f3-48101de9bbd8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\7.png": {
+    "time": 1656215666000,
+    "uuid": "2419ea5c-5063-4398-946a-aa00f4be8071",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\8.png": {
+    "time": 1656215666000,
+    "uuid": "de23f053-3c29-4aaa-b6d2-6bdc6e22ac68",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\9.png": {
+    "time": 1656215666000,
+    "uuid": "5237ec1b-4eae-49e5-b20c-c87cc4e6d246",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\1.png": {
+    "time": 1656215666000,
+    "uuid": "e35fa41d-fe97-4f6e-a430-7c2225159def",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\2.png": {
+    "time": 1656215666000,
+    "uuid": "dba50ae3-bc48-4a20-a540-44d4de52b103",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\3.png": {
+    "time": 1656215666000,
+    "uuid": "ff518229-d9b0-42c3-bf9e-407e64c1fe1a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\4.png": {
+    "time": 1656215666000,
+    "uuid": "4f878ade-5369-494a-b93d-3040fce324e9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\5.png": {
+    "time": 1656215666000,
+    "uuid": "ea974d7f-4812-432f-8fc7-325f420a9b78",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\6.png": {
+    "time": 1656215666000,
+    "uuid": "581c24ef-a865-4e9c-8c77-fe57f737044e",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\7.png": {
+    "time": 1656215666000,
+    "uuid": "6d3c2e58-afda-4c33-beb0-5c53dafea011",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\1.png": {
+    "time": 1656215666000,
+    "uuid": "cf1a448d-f8e9-46c5-b028-f53edc997f5d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\2.png": {
+    "time": 1656215666000,
+    "uuid": "fea6d5a7-a15b-45cd-9b40-a7ef24ebfcbf",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\3.png": {
+    "time": 1656215666000,
+    "uuid": "b2296232-dd38-42eb-8b2b-7eb4aa27e474",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\4.png": {
+    "time": 1656215666000,
+    "uuid": "6520b010-d03b-4300-ba89-20db6681d3a7",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\5.png": {
+    "time": 1656215666000,
+    "uuid": "41f5a53e-d4f4-4aa4-a9f8-749fb4726d48",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\6.png": {
+    "time": 1656215666000,
+    "uuid": "756a1be5-8fb2-4d41-82d6-31334111a889",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Big.png": {
+    "time": 1656215666000,
+    "uuid": "d79f5c8b-03bc-4966-bcc6-671c4843126a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Layer-3.png": {
+    "time": 1656215666000,
+    "uuid": "82b6d59c-8acc-4c7b-aa0b-6dd60288dbaf",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Layer-2.png": {
+    "time": 1656215666000,
+    "uuid": "4a3faafc-de2a-48c9-9f5c-3b5957978fff",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Win.png": {
+    "time": 1656215666000,
+    "uuid": "4c33e7b1-5f96-44f0-b242-055490014bec",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0002_Layer-1.png": {
+    "time": 1656215666000,
+    "uuid": "5abd4981-968e-4b19-a8ad-8d40ed9afbb8",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources.meta": {
+    "time": 1656273974094.0854
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scene.meta": {
+    "time": 1656291057214.214
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts.meta": {
+    "time": 1656306819780.7068
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image.meta": {
+    "time": 1656273984779.866
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\logoAnim.ts.meta": {
+    "time": 1656306859414.7964
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\bg_slot.png.meta": {
+    "time": 1656279720191.7383
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_down.png.meta": {
+    "time": 1656279720194.734
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\bg1.jpg.meta": {
+    "time": 1656275009831.3953
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\font.meta": {
+    "time": 1656274020078.118
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame.meta": {
+    "time": 1656274020091.105
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_down1.png.meta": {
+    "time": 1656279720205.7224
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_up.png.meta": {
+    "time": 1656279720229.7036
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\down_bg.png.meta": {
+    "time": 1656279720348.5864
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons.meta": {
+    "time": 1656274020202.9988
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info.meta": {
+    "time": 1656274020209.9924
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\corner_up1.png.meta": {
+    "time": 1656279720351.5823
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame1.png.meta": {
+    "time": 1656279720400.5364
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame.png.meta": {
+    "time": 1656279615254.998
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame2.png.meta": {
+    "time": 1656279720361.5735
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1.meta": {
+    "time": 1656274020381.8284
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2.meta": {
+    "time": 1656274020386.8235
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info.jpg.meta": {
+    "time": 1656275072355.6143
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\loading.png.meta": {
+    "time": 1656279663186.1885
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\logo.png.meta": {
+    "time": 1656279720405.532
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button.meta": {
+    "time": 1656293067832.9148
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\plate_freegames.png.meta": {
+    "time": 1656279720518.4238
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation.meta": {
+    "time": 1656274020480.7341
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\numb.png.meta": {
+    "time": 1656279720542.401
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X.meta": {
+    "time": 1656274020497.717
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\logo-effect.png.meta": {
+    "time": 1656308773864.0247
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\shadow.jpg.meta": {
+    "time": 1656279720510.4307
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\plate_ways.png.meta": {
+    "time": 1656279720524.417
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\font\\tt0007m.ttf.meta": {
+    "time": 1656274020564.652
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Wolf_reels.png.meta": {
+    "time": 1656279720554.3894
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\1.png.meta": {
+    "time": 1656283559828.5142
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\2.png.meta": {
+    "time": 1656283559520.8076
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\3.png.meta": {
+    "time": 1656283559540.7893
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\4.png.meta": {
+    "time": 1656283559476.851
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\5.png.meta": {
+    "time": 1656283559545.7842
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\frame\\6.png.meta": {
+    "time": 1656283559549.781
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-10.png.meta": {
+    "time": 1656286580866.9956
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-9.png.meta": {
+    "time": 1656286580725.1313
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-a.png.meta": {
+    "time": 1656286580827.0356
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-10.plist.meta": {
+    "time": 1656286579614.194
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-9.plist.meta": {
+    "time": 1656286579442.3584
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-bonus.plist.meta": {
+    "time": 1656287239806.279
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-bonus.png.meta": {
+    "time": 1656287239772.3103
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-a.plist.meta": {
+    "time": 1656286579948.8765
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-cat.png.meta": {
+    "time": 1656286580967.8994
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-deer.png.meta": {
+    "time": 1656286581011.8599
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-j.png.meta": {
+    "time": 1656286581051.8196
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-cat.plist.meta": {
+    "time": 1656286580071.7585
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-deer.plist.meta": {
+    "time": 1656286579973.8528
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-k.png.meta": {
+    "time": 1656286581074.7986
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-owl.png.meta": {
+    "time": 1656286581142.7324
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-k.plist.meta": {
+    "time": 1656286580420.423
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-j.plist.meta": {
+    "time": 1656286580548.3005
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-q.png.meta": {
+    "time": 1656286581155.7192
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-owl.plist.meta": {
+    "time": 1656286580432.4114
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-rabbit.png.meta": {
+    "time": 1656286581158.7175
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-q.plist.meta": {
+    "time": 1656286580386.4563
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wild.png.meta": {
+    "time": 1656286706678.7385
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-rabbit.plist.meta": {
+    "time": 1656286580493.3594
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wolf.png.meta": {
+    "time": 1656286581353.5317
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\1.png.meta": {
+    "time": 1656335751430.322
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\2.png.meta": {
+    "time": 1656335751424.3284
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\3.png.meta": {
+    "time": 1656335751383.3662
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\4.png.meta": {
+    "time": 1656335751313.4333
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\5.png.meta": {
+    "time": 1656335751294.4521
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\6.png.meta": {
+    "time": 1656335751304.4436
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\arrow.png.meta": {
+    "time": 1656335751388.3667
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\bg3.jpg.meta": {
+    "time": 1656274021450.806
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\info\\bg.png.meta": {
+    "time": 1656335751395.356
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wild.plist.meta": {
+    "time": 1656286706618.7964
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\bg_light.png.meta": {
+    "time": 1656274021675.5908
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\big_flag.png.meta": {
+    "time": 1656274021601.663
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\big_flag1.png.meta": {
+    "time": 1656274021685.5835
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_blue.png.meta": {
+    "time": 1656274021707.56
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_blue1.png.meta": {
+    "time": 1656274021712.557
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_green.png.meta": {
+    "time": 1656274021782.4885
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_green1.png.meta": {
+    "time": 1656274021794.4763
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-wolf.plist.meta": {
+    "time": 1656286581234.645
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\bg_light1.png.meta": {
+    "time": 1656274021849.423
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_heavy_blue.png.meta": {
+    "time": 1656274021860.4128
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_heavy_blue1.png.meta": {
+    "time": 1656274021899.3767
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light.meta": {
+    "time": 1656274021903.3718
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_red1.png.meta": {
+    "time": 1656274021975.3042
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_red.png.meta": {
+    "time": 1656274022026.2563
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_yellow1.png.meta": {
+    "time": 1656274022007.2734
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\f_yellow.png.meta": {
+    "time": 1656274022041.2407
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\plate.png.meta": {
+    "time": 1656274022051.232
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball.meta": {
+    "time": 1656274022054.2285
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\txt_cong.png.meta": {
+    "time": 1656274022289.005
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\wooden_plank.png.meta": {
+    "time": 1656274022220.0698
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue.meta": {
+    "time": 1656274022102.184
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\bg2.jpg.meta": {
+    "time": 1656274022097.187
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\bg1.png.meta": {
+    "time": 1656274022060.2236
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light.meta": {
+    "time": 1656274022293.001
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame.png.meta": {
+    "time": 1656274022327.9673
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\fire.png.meta": {
+    "time": 1656274022317.9753
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\ic_lock.png.meta": {
+    "time": 1656274022336.958
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball.meta": {
+    "time": 1656274022345.9495
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\line.png.meta": {
+    "time": 1656274022383.9143
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel.meta": {
+    "time": 1656274022364.9316
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light.png.meta": {
+    "time": 1656274022359.9363
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner.meta": {
+    "time": 1656274022373.9226
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light_line.png.meta": {
+    "time": 1656274022453.8452
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\jackpot.png.meta": {
+    "time": 1656274022395.9026
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\particle.png.meta": {
+    "time": 1656274022437.8604
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\minus.png.meta": {
+    "time": 1656293122945.221
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\1.png.meta": {
+    "time": 1656293088498.1548
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text.meta": {
+    "time": 1656274022398.8987
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\big_win_animations.jpg.meta": {
+    "time": 1656274022411.886
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\plus.png.meta": {
+    "time": 1656293088518.1382
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\play_button\\reload.png.meta": {
+    "time": 1656293088522.1333
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\big_win_animations_2.jpg.meta": {
+    "time": 1656274022440.8577
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\15.png.meta": {
+    "time": 1656274022544.7598
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\10.png.meta": {
+    "time": 1656274022491.811
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\2.png.meta": {
+    "time": 1656274022510.793
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\1.png.meta": {
+    "time": 1656274022471.828
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\25.png.meta": {
+    "time": 1656274022515.7883
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\5.png.meta": {
+    "time": 1656274022584.7205
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\4.png.meta": {
+    "time": 1656274022572.734
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\3.png.meta": {
+    "time": 1656274022565.7383
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\8.png.meta": {
+    "time": 1656274022617.6885
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\50.png.meta": {
+    "time": 1656274022660.6494
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\shadow.png.meta": {
+    "time": 1656274022666.6436
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\X\\mini.png.meta": {
+    "time": 1656274022630.677
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\1.png.meta": {
+    "time": 1656274025699.744
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\3.png.meta": {
+    "time": 1656274025687.7559
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\4.png.meta": {
+    "time": 1656274025723.721
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\1.png.meta": {
+    "time": 1656274025839.6118
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame1\\light\\2.png.meta": {
+    "time": 1656274026024.434
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\10.png.meta": {
+    "time": 1656274025869.5808
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\2.png.meta": {
+    "time": 1656274026003.4553
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\11.png.meta": {
+    "time": 1656274025880.5703
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\3.png.meta": {
+    "time": 1656274026032.4255
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\4.png.meta": {
+    "time": 1656274026061.3975
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\5.png.meta": {
+    "time": 1656274026140.322
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\6.png.meta": {
+    "time": 1656274026199.266
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\7.png.meta": {
+    "time": 1656274026227.2432
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\8.png.meta": {
+    "time": 1656274026273.196
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\big_fireball\\9.png.meta": {
+    "time": 1656274026301.1685
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue\\2.png.meta": {
+    "time": 1656274026606.8784
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue\\1.png.meta": {
+    "time": 1656274026318.1519
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\frame_blue\\3.png.meta": {
+    "time": 1656274026647.8364
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\1.png.meta": {
+    "time": 1656274026643.8408
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\2.png.meta": {
+    "time": 1656274026906.589
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\3.png.meta": {
+    "time": 1656274026914.5818
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\1.png.meta": {
+    "time": 1656274027020.4797
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\4.png.meta": {
+    "time": 1656274027110.3938
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\5.png.meta": {
+    "time": 1656274027248.2622
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\light\\6.png.meta": {
+    "time": 1656274027308.2058
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\10.png.meta": {
+    "time": 1656274027040.4626
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\11.png.meta": {
+    "time": 1656274027125.381
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\2.png.meta": {
+    "time": 1656274027136.3718
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\3.png.meta": {
+    "time": 1656274027212.2969
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\4.png.meta": {
+    "time": 1656274027238.2727
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\5.png.meta": {
+    "time": 1656274027295.2202
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\6.png.meta": {
+    "time": 1656274027327.1877
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\7.png.meta": {
+    "time": 1656274027367.1494
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\8.png.meta": {
+    "time": 1656274027382.135
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\mini fireball\\9.png.meta": {
+    "time": 1656274027442.0776
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\1.png.meta": {
+    "time": 1656274027477.0447
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\2.png.meta": {
+    "time": 1656274027483.0388
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\3.png.meta": {
+    "time": 1656274027517.0056
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\5.png.meta": {
+    "time": 1656274027592.935
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\4.png.meta": {
+    "time": 1656274027538.9846
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\6.png.meta": {
+    "time": 1656274027613.913
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\up_panel\\7.png.meta": {
+    "time": 1656274027637.8916
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\1.png.meta": {
+    "time": 1656274027683.8477
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\3.png.meta": {
+    "time": 1656274027743.789
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\2.png.meta": {
+    "time": 1656274027699.8313
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\4.png.meta": {
+    "time": 1656274027760.773
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\5.png.meta": {
+    "time": 1656274027768.7664
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\minigame2\\winner\\6.png.meta": {
+    "time": 1656274027896.6423
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Layer-3.png.meta": {
+    "time": 1656274027957.5842
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0000_Big.png.meta": {
+    "time": 1656274027923.6165
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Layer-2.png.meta": {
+    "time": 1656274027967.5786
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0002_Layer-1.png.meta": {
+    "time": 1656274028043.5034
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\Win_animation\\Text\\Untitled-3_0001_Win.png.meta": {
+    "time": 1656274027984.5579
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\loadingController.ts.meta": {
+    "time": 1656318450425.3801
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\loadingController.ts": {
+    "time": 1656343125602.0618,
+    "uuid": "45178812-0059-4bf3-8109-9d17868216a9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting.meta": {
+    "time": 1656321453545.1245
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\bg-setting.png.meta": {
+    "time": 1656321469773.6648
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting": {
+    "time": 1656321588691.536,
+    "uuid": "18bd7b86-6deb-4524-878a-06133af18830",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\bg-setting.png": {
+    "time": 1656377610000,
+    "uuid": "647d93eb-89d6-4c30-a490-84d8665f32d5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\btn-setting.plist.meta": {
+    "time": 1656321589008.2349
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\btn-setting.png.meta": {
+    "time": 1656321588833.4016
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\btn-setting.png": {
+    "time": 1656321586713.423,
+    "uuid": "966dde4a-3647-4a47-8b4f-645c2cc61b52",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\setting\\btn-setting.plist": {
+    "time": 1656321586716.4175,
+    "uuid": "9c4b59db-fbaa-409b-adc8-12521a5ac639",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\settingController.ts.meta": {
+    "time": 1656324507638.8003
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\settingController.ts": {
+    "time": 1656324871080.4648,
+    "uuid": "9eab171f-ee1c-4707-969b-6114f4ad00b3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\GameManager.ts.meta": {
+    "time": 1656325105346.8228
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\GameManager.ts": {
+    "time": 1656709976968.3433,
+    "uuid": "035c0130-bfaf-4afb-a223-3b203ad6e44f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\ReelManager.ts.meta": {
+    "time": 1656331854553.1797
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\ReelManager.ts": {
+    "time": 1656709701445.924,
+    "uuid": "4ff72638-a494-42a7-8081-9b46c8f6271c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scene\\1.Login.scene.meta": {
+    "time": 1656332509407.2002
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scene\\1.Login.scene": {
+    "time": 1656332814057.406,
+    "uuid": "3969b3aa-6f65-4464-8544-42b11449e87b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scene\\2.Main.scene.meta": {
+    "time": 1656291057238.194
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scene\\2.Main.scene": {
+    "time": 1656706606527.7146,
+    "uuid": "7bb19b5f-bf71-4e1a-be86-8a33cdec546f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\InfoController.ts.meta": {
+    "time": 1656335969703.3772
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\InfoController.ts": {
+    "time": 1656337723436.1038,
+    "uuid": "1d19b096-03fa-4a75-907d-ca0575ef1793",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\LogoController.ts.meta": {
+    "time": 1656339910810.8325
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\LogoController.ts": {
+    "time": 1656344232176.5066,
+    "uuid": "268a1f79-bca6-4b50-af2e-6e0d340ad897",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\axeLeft.png.meta": {
+    "time": 1656342398940.684
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\axeLeft.png": {
+    "time": 1656215660000,
+    "uuid": "006b93b7-81b3-4b13-849d-773393bf291c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\axeRight.png.meta": {
+    "time": 1656342549872.1323
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\axeRight.png": {
+    "time": 1656400073000,
+    "uuid": "56ff6d62-d9d9-4114-a3c1-ffbdce90e554",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\ReelController.ts.meta": {
+    "time": 1656370270840.0515
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\ReelController.ts": {
+    "time": 1656709944141.3909,
+    "uuid": "13d39f88-e764-4083-98f5-6ddea8ac914f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global.meta": {
+    "time": 1656452523467.9722
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global": {
+    "time": 1656620239731.7263,
+    "uuid": "20bceaa7-3237-4830-b2d4-81954ace10c4",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global\\Global.ts.meta": {
+    "time": 1656452535804.757
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global\\Global.ts": {
+    "time": 1656513166498.6763,
+    "uuid": "936d43f5-8b0d-42ab-99b2-1df928fc6ec2",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\SettingDetailController.ts.meta": {
+    "time": 1656452340685.9775
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\SettingDetailController.ts": {
+    "time": 1656706596080.2666,
+    "uuid": "d13eb218-d09d-4816-8828-c38efac934b6",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\PlayerStatusController.ts.meta": {
+    "time": 1656507751437.4602
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\PlayerStatusController.ts": {
+    "time": 1656511055560.7012,
+    "uuid": "693e5c9d-8ab9-449a-b82a-5a5c6bfcbe87",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\animation.meta": {
+    "time": 1656536463762.2092
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\animation\\wolf.anim.meta": {
+    "time": 1656536463798.176
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\animation": {
+    "time": 1656540884269.5452,
+    "uuid": "c788badd-3916-4c19-9102-d5ee8581ba0f",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\animation\\wolf.anim": {
+    "time": 1656540326587.9067,
+    "uuid": "e77b6c86-7683-421c-abbc-8fe21831f6de",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\prefab.meta": {
+    "time": 1656536933342.5808
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\prefab": {
+    "time": 1656536933336.5906,
+    "uuid": "61c3f1cc-a660-4ef0-8b76-50e0f09d9892",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-x.plist.meta": {
+    "time": 1656537914843.1724
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-x.png.meta": {
+    "time": 1656537914793.221
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-x.png": {
+    "time": 1656537912161.725,
+    "uuid": "99c6cc6d-082f-4093-8238-3b81b6e15673",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\resources\\image\\icons\\icon-x.plist": {
+    "time": 1656537912182.7046,
+    "uuid": "ccb4ce26-f489-4d9a-97bd-273d176b68d3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\animation\\wild.anim.meta": {
+    "time": 1656540884335.483
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\animation\\wild.anim": {
+    "time": 1656541218238.649,
+    "uuid": "aa7436e7-5710-4140-a399-33993d153fe7",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\ScoreController.ts.meta": {
+    "time": 1656596079319.7256
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\ScoreController.ts": {
+    "time": 1656599933391.48,
+    "uuid": "c2bd8431-fa84-47b1-87ec-4e6792d1746d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global\\AudioManager.ts.meta": {
+    "time": 1656600110593.6816
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global\\AudioManager.ts": {
+    "time": 1656622250946.7036,
+    "uuid": "2a074e7e-0d28-4bec-986f-e0313ffe5673",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio.meta": {
+    "time": 1656601317457.3987
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\coins.wav.meta": {
+    "time": 1656601319656.3066
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\coinsWin.wav.meta": {
+    "time": 1656601319672.2913
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\gameOver.wav.meta": {
+    "time": 1656601319669.294
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\jackpot.wav.meta": {
+    "time": 1656601319658.3047
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\lineWin.wav.meta": {
+    "time": 1656601319661.301
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\reelRoll.mp3.meta": {
+    "time": 1656601319906.068
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\reelStart.wav.meta": {
+    "time": 1656601319860.1113
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\reelStop.wav.meta": {
+    "time": 1656601319733.2341
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio": {
+    "time": 1656601314705.016,
+    "uuid": "69591092-3cdf-4a56-a3b9-e9b4f739a37d",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\coins.wav": {
+    "time": 1656530505258.5244,
+    "uuid": "3644ae68-750a-45e2-823a-f1bec826359b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\jackpot.wav": {
+    "time": 1656530505517.4082,
+    "uuid": "6ea24b72-6dae-43e3-b2a2-daeffccf1b00",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\lineWin.wav": {
+    "time": 1656530505522.405,
+    "uuid": "1bbfe966-55ba-44cc-a686-8c6896dd7336",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\gameOver.wav": {
+    "time": 1656530505431.417,
+    "uuid": "1eabfbb2-6ee7-45a1-9bd5-b00f8b57451a",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\coinsWin.wav": {
+    "time": 1656530505264.52,
+    "uuid": "6d8f9b3f-69d8-4953-8613-803e131a352c",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\reelStop.wav": {
+    "time": 1656530505543.384,
+    "uuid": "ad33fd13-c9b4-4ecf-b063-f9e5382625c3",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\reelStart.wav": {
+    "time": 1656530505539.39,
+    "uuid": "4149ff35-1df4-4be9-a5e4-d18f1e4a27b5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\audio\\reelRoll.mp3": {
+    "time": 1656530505527.4033,
+    "uuid": "e616e401-2919-4d19-ba13-453203aef6b9",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global\\constant.ts.meta": {
+    "time": 1656620240083.332
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts\\Global\\constant.ts": {
+    "time": 1656620557441.9866,
+    "uuid": "b4069c7b-9d1a-41f2-b9cc-ab1fda39dcb5",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts.rar": {
+    "time": 1656768929880.013,
+    "uuid": "4b4cfb1b-7b76-4355-b70e-5f0c504f396b",
+    "missing": false
+  },
+  "E:\\2.workspace\\cocos creator\\slot\\SlotMachine\\assets\\scripts.rar.meta": {
+    "time": 1656780165730.051
+  }
+}

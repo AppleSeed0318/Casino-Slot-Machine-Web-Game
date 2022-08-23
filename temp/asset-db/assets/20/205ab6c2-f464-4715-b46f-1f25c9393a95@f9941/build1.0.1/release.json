@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "20WrbC9GRHFbRvHyXJOTqV@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "corner_up",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 43,
+                "height": 41
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 43,
+                "height": 41
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

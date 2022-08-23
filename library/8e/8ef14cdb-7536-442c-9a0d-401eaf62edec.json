@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "icon-rabbit",
+    "spriteFrames": [
+      "1",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@c30fb",
+      "2",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@c86cc",
+      "3",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@e7223",
+      "4",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@a795c",
+      "5",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@e7d45",
+      "6",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@116ec",
+      "7",
+      "8ef14cdb-7536-442c-9a0d-401eaf62edec@855b3"
+    ]
+  }
+}

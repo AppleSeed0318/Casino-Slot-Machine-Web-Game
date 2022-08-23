@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "icon-bonus",
+    "spriteFrames": [
+      "1",
+      "21ccd349-9f23-47ee-b6f9-43944438e577@c30fb",
+      "2",
+      "21ccd349-9f23-47ee-b6f9-43944438e577@c86cc"
+    ]
+  }
+}

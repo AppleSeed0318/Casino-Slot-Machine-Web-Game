@@ -1,0 +1,249 @@
+{
+  "cacheFiles": {
+    "f4718116-152b-4e7a-8307-c1f0fc52a8f2": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\f4\\f4718116-152b-4e7a-8307-c1f0fc52a8f2\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "8bca399a-6188-40bf-bb2a-a529a6eafb23@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\8b\\8bca399a-6188-40bf-bb2a-a529a6eafb23@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "8fd89c05-7b09-46a9-9371-665e5cff6226@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\8f\\8fd89c05-7b09-46a9-9371-665e5cff6226@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "7fc2723f-89ee-4416-8447-68b3f4baf25f@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\7f\\7fc2723f-89ee-4416-8447-68b3f4baf25f@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "82693b0d-a636-4cd2-8ff8-8b4140b6666b@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\82\\82693b0d-a636-4cd2-8ff8-8b4140b6666b@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "d07a8e1c-dc4f-4b89-94d3-515a4df472f3@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\d0\\d07a8e1c-dc4f-4b89-94d3-515a4df472f3@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\0b\\0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+    "d3a08280-6ee1-47e8-9294-989767963ae1@f9941": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\asset-db\\assets\\d3\\d3a08280-6ee1-47e8-9294-989767963ae1@f9941\\build\\f4718116-152b-4e7a-8307-c1f0fc52a8f2"
+  },
+  "sharpMd5": "8c10c",
+  "md5": "6bf11",
+  "versionDev": "1.0.2",
+  "result": {
+    "atlases": [
+      {
+        "imageUuid": "1a990677c",
+        "textureUuid": "1a990677c@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "6",
+            "uuid": "0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327@f9941",
+            "imageUuid": "0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327",
+            "textureUuid": "0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\6.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327@f9941_image_0.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 3,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\0b\\0bd9abe5-77f6-44cf-9f2c-3f3d44b9f327.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "3",
+            "uuid": "7fc2723f-89ee-4416-8447-68b3f4baf25f@f9941",
+            "imageUuid": "7fc2723f-89ee-4416-8447-68b3f4baf25f",
+            "textureUuid": "7fc2723f-89ee-4416-8447-68b3f4baf25f@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\3.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_7fc2723f-89ee-4416-8447-68b3f4baf25f@f9941_image_1.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 74,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\7f\\7fc2723f-89ee-4416-8447-68b3f4baf25f.png",
+            "rotated": false,
+            "x": 0,
+            "y": 71,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "4",
+            "uuid": "82693b0d-a636-4cd2-8ff8-8b4140b6666b@f9941",
+            "imageUuid": "82693b0d-a636-4cd2-8ff8-8b4140b6666b",
+            "textureUuid": "82693b0d-a636-4cd2-8ff8-8b4140b6666b@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\4.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_82693b0d-a636-4cd2-8ff8-8b4140b6666b@f9941_image_2.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 145,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\82\\82693b0d-a636-4cd2-8ff8-8b4140b6666b.png",
+            "rotated": false,
+            "x": 0,
+            "y": 142,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "1",
+            "uuid": "8bca399a-6188-40bf-bb2a-a529a6eafb23@f9941",
+            "imageUuid": "8bca399a-6188-40bf-bb2a-a529a6eafb23",
+            "textureUuid": "8bca399a-6188-40bf-bb2a-a529a6eafb23@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\1.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_8bca399a-6188-40bf-bb2a-a529a6eafb23@f9941_image_3.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 216,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\8b\\8bca399a-6188-40bf-bb2a-a529a6eafb23.png",
+            "rotated": false,
+            "x": 0,
+            "y": 213,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "2",
+            "uuid": "8fd89c05-7b09-46a9-9371-665e5cff6226@f9941",
+            "imageUuid": "8fd89c05-7b09-46a9-9371-665e5cff6226",
+            "textureUuid": "8fd89c05-7b09-46a9-9371-665e5cff6226@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\2.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_8fd89c05-7b09-46a9-9371-665e5cff6226@f9941_image_4.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 287,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\8f\\8fd89c05-7b09-46a9-9371-665e5cff6226.png",
+            "rotated": false,
+            "x": 0,
+            "y": 284,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "5",
+            "uuid": "d07a8e1c-dc4f-4b89-94d3-515a4df472f3@f9941",
+            "imageUuid": "d07a8e1c-dc4f-4b89-94d3-515a4df472f3",
+            "textureUuid": "d07a8e1c-dc4f-4b89-94d3-515a4df472f3@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\5.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_d07a8e1c-dc4f-4b89-94d3-515a4df472f3@f9941_image_5.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 358,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\d0\\d07a8e1c-dc4f-4b89-94d3-515a4df472f3.png",
+            "rotated": false,
+            "x": 0,
+            "y": 355,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "7",
+            "uuid": "d3a08280-6ee1-47e8-9294-989767963ae1@f9941",
+            "imageUuid": "d3a08280-6ee1-47e8-9294-989767963ae1",
+            "textureUuid": "d3a08280-6ee1-47e8-9294-989767963ae1@6c48a",
+            "file": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\assets\\resources\\image\\icons\\9\\7.png",
+            "libraryPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_d3a08280-6ee1-47e8-9294-989767963ae1@f9941_image_6.png",
+            "trim": {
+              "rotatedWidth": 57,
+              "rotatedHeight": 65,
+              "x": 3,
+              "y": 429,
+              "width": 57,
+              "height": 65
+            },
+            "rawWidth": 113,
+            "rawHeight": 76,
+            "width": 63,
+            "height": 71,
+            "originalPath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\library\\d3\\d3a08280-6ee1-47e8-9294-989767963ae1.png",
+            "rotated": false,
+            "x": 0,
+            "y": 426,
+            "rotatedWidth": 63,
+            "rotatedHeight": 71
+          }
+        ],
+        "width": 63,
+        "height": 497,
+        "name": "icon-9-0",
+        "imagePath": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\preview\\f4718116-152b-4e7a-8307-c1f0fc52a8f2\\1a990677c.png"
+      }
+    ],
+    "options": {
+      "name": "icon-9",
+      "width": 1024,
+      "height": 1024,
+      "destDir": "E:\\2.workspace\\cocos creator\\slot\\NewProject\\temp\\builder\\TexturePacker1.0.1\\preview\\f4718116-152b-4e7a-8307-c1f0fc52a8f2",
+      "maxWidth": 1024,
+      "maxHeight": 1024,
+      "padding": 2,
+      "allowRotation": true,
+      "forceSquared": false,
+      "powerOfTwo": false,
+      "algorithm": "MaxRects",
+      "format": "png",
+      "quality": 80,
+      "contourBleed": true,
+      "paddingBleed": true,
+      "filterUnused": true,
+      "removeTextureInBundle": true,
+      "removeImageInBundle": true,
+      "removeSpriteAtlasInBundle": true,
+      "compressSettings": {},
+      "textureSetting": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "bleed": 1
+    },
+    "unpackedImages": []
+  }
+}

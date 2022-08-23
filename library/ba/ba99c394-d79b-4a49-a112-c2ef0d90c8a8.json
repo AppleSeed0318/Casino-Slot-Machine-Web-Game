@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "icon-q",
+    "spriteFrames": [
+      "1",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@c30fb",
+      "2",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@c86cc",
+      "3",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@e7223",
+      "4",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@a795c",
+      "5",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@e7d45",
+      "6",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@116ec",
+      "7",
+      "ba99c394-d79b-4a49-a112-c2ef0d90c8a8@855b3"
+    ]
+  }
+}

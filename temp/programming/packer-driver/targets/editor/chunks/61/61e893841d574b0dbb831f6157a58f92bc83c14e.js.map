@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/constant.ts"],"names":["SOUND","REEL_START","ROLLING"],"mappings":";;;;;;;;;;;;;;uBAAaA,K,GAAQ;AACnBC,QAAAA,UAAU,EAAE,CADO;AAEnBC,QAAAA,OAAO,EAAE;AAFU,O","sourcesContent":["export const SOUND = {\r\n  REEL_START: 1,\r\n  ROLLING: 2,\r\n};"]}

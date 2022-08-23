@@ -1,0 +1,39 @@
+[
+    1,
+    0,
+    0,
+    [
+        "cc.SpriteAtlas"
+    ],
+    0,
+    [
+        {
+            "name": "icon-owl",
+            "spriteFrames": [
+                "1",
+                "80McYgdTtPZZFGf1xOsQiS@c30fb",
+                "2",
+                "80McYgdTtPZZFGf1xOsQiS@c86cc",
+                "3",
+                "80McYgdTtPZZFGf1xOsQiS@e7223",
+                "4",
+                "80McYgdTtPZZFGf1xOsQiS@a795c",
+                "5",
+                "80McYgdTtPZZFGf1xOsQiS@e7d45",
+                "6",
+                "80McYgdTtPZZFGf1xOsQiS@116ec",
+                "7",
+                "80McYgdTtPZZFGf1xOsQiS@855b3",
+                "8",
+                "80McYgdTtPZZFGf1xOsQiS@c959d"
+            ]
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [],
+    [],
+    []
+]

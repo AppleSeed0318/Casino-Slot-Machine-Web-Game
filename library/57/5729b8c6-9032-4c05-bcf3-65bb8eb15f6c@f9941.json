@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plate_ways",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 175,
+      "height": 33
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 175,
+      "height": 33
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5729b8c6-9032-4c05-bcf3-65bb8eb15f6c@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,1731 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 117955.20129999518,
+      "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/3d",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-framework",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/primitive",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/terrain",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 118394.31190000474,
+      "chunkId": "d2a469b18dd3806af6b4b4f47a791d61efe03601",
+      "imports": [
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/GameManager.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 35
+            },
+            "end": {
+              "line": 5,
+              "column": 122
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/AudioManager.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 138
+            },
+            "end": {
+              "line": 5,
+              "column": 233
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/Global.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 249
+            },
+            "end": {
+              "line": 5,
+              "column": 338
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/constant.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 354
+            },
+            "end": {
+              "line": 5,
+              "column": 445
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/InfoController.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 461
+            },
+            "end": {
+              "line": 5,
+              "column": 551
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/LogoController.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 567
+            },
+            "end": {
+              "line": 5,
+              "column": 657
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/PlayerStatusController.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 673
+            },
+            "end": {
+              "line": 5,
+              "column": 771
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelController.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 787
+            },
+            "end": {
+              "line": 5,
+              "column": 877
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelManager.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 893
+            },
+            "end": {
+              "line": 5,
+              "column": 980
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ScoreController.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 996
+            },
+            "end": {
+              "line": 5,
+              "column": 1087
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/SettingDetailController.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1103
+            },
+            "end": {
+              "line": 5,
+              "column": 1202
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/loadingController.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1218
+            },
+            "end": {
+              "line": 5,
+              "column": 1311
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/logoAnim.ts",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1327
+            },
+            "end": {
+              "line": 5,
+              "column": 1411
+            }
+          }
+        },
+        {
+          "value": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/settingController.ts",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1427
+            },
+            "end": {
+              "line": 5,
+              "column": 1520
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/Global.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/InfoController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/LogoController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/PlayerStatusController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ScoreController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/SettingDetailController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/loadingController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/logoAnim.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/settingController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/NewProject/assets/scripts/logoAnim.ts": {
+      "mTimestamp": {
+        "mtime": 1656309649468.9258,
+        "uuid": "4c2469cc-0b45-4639-8c08-1f49cd29602e"
+      },
+      "chunkId": "f0782e42ab372b5cc4b837b91385d86d9b3fb334",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/logoAnim.ts": {
+      "mTimestamp": {
+        "mtime": 1656318227603.8147,
+        "uuid": "4c2469cc-0b45-4639-8c08-1f49cd29602e"
+      },
+      "chunkId": "1bc1fb92a7cdfc73f622628ce3f10bc09e0547e4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/loadingController.ts": {
+      "mTimestamp": {
+        "mtime": 1656343125602.0618,
+        "uuid": "45178812-0059-4bf3-8109-9d17868216a9"
+      },
+      "chunkId": "487be1cf3ff8c01272b1b70edd265b07545cf790",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/settingController.ts": {
+      "mTimestamp": {
+        "mtime": 1656324871080.4648,
+        "uuid": "9eab171f-ee1c-4707-969b-6114f4ad00b3"
+      },
+      "chunkId": "6286f52e8fd6f84f7aa033a86a799b3c7ec74103",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/GameManagerController.ts": {
+      "mTimestamp": {
+        "mtime": 1656325077022.0354,
+        "uuid": "e1f7f7e0-6941-4fbf-9588-826d23957830"
+      },
+      "chunkId": "fd96247360ae26a39eb8bcb66d4adbe4f1ec4d24",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656709976968.3433,
+        "uuid": "035c0130-bfaf-4afb-a223-3b203ad6e44f"
+      },
+      "chunkId": "5dfcbd33899296d9fe6015bc14259f1fc14e10cd",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 52
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./settingController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "./InfoController",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "./SettingDetailController",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 38
+            },
+            "end": {
+              "line": 6,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "./LogoController",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "./loadingController",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 32
+            },
+            "end": {
+              "line": 10,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/settingController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/InfoController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/SettingDetailController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/LogoController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/loadingController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1656780042603,
+      "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/reelController.ts": {
+      "mTimestamp": {
+        "mtime": 1656333005378.2832,
+        "uuid": "abdd6197-7ac9-4551-bf7c-ba9090972dce"
+      },
+      "chunkId": "f41142da89cb6b4dae2ca51564019f552bc35374",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/InfoController.ts": {
+      "mTimestamp": {
+        "mtime": 1656337723436.1038,
+        "uuid": "1d19b096-03fa-4a75-907d-ca0575ef1793"
+      },
+      "chunkId": "eabac9106e671f1dcfa769a450c357e1bc2b1047",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/LogoController.ts": {
+      "mTimestamp": {
+        "mtime": 1656344232176.5066,
+        "uuid": "268a1f79-bca6-4b50-af2e-6e0d340ad897"
+      },
+      "chunkId": "13fa7a3add47fc758c7d5e52f8106e9e456d9da8",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/SettingDetail.ts": {
+      "mTimestamp": {
+        "mtime": 1656461298478.8914,
+        "uuid": "dd4eaf89-b63a-48eb-9b69-e643cce03b61"
+      },
+      "chunkId": "090e1b4f9df558052eae00993a8460246eafcff4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/Global.ts": {
+      "mTimestamp": {
+        "mtime": 1656513166498.6763,
+        "uuid": "936d43f5-8b0d-42ab-99b2-1df928fc6ec2"
+      },
+      "chunkId": "5c8862e50f23686264c0a645325ca08552168b88",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/SettingDetailController.ts": {
+      "mTimestamp": {
+        "mtime": 1656706596080.2666,
+        "uuid": "d13eb218-d09d-4816-8828-c38efac934b6"
+      },
+      "chunkId": "0ff1a4f4a8ad064cb3b748d8cd3acea82801f4e4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/PlayerStatusController.ts": {
+      "mTimestamp": {
+        "mtime": 1656511055560.7012,
+        "uuid": "693e5c9d-8ab9-449a-b82a-5a5c6bfcbe87"
+      },
+      "chunkId": "71786e1f8456a22033ec5387555dce4823f2a256",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelController.ts": {
+      "mTimestamp": {
+        "mtime": 1656709944141.3909,
+        "uuid": "13d39f88-e764-4083-98f5-6ddea8ac914f"
+      },
+      "chunkId": "e0ad70c0da29f5ff1d546094e56f5166c34db0c9",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 52
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656709701445.924,
+        "uuid": "4ff72638-a494-42a7-8081-9b46c8f6271c"
+      },
+      "chunkId": "617021eba539b9b6f5629626da6d21f2d83bd17d",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 82
+            },
+            "end": {
+              "line": 1,
+              "column": 86
+            }
+          }
+        },
+        {
+          "value": "./ReelController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "./Global/AudioManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ReelController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/ScoreController.ts": {
+      "mTimestamp": {
+        "mtime": 1656599933391.48,
+        "uuid": "c2bd8431-fa84-47b1-87ec-4e6792d1746d"
+      },
+      "chunkId": "b01afccf4f955914a9cc78c0aeaed696c8853cab",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/AudioManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656622250946.7036,
+        "uuid": "2a074e7e-0d28-4bec-986f-e0313ffe5673"
+      },
+      "chunkId": "4832a8bafe4537058c9d0c27928e0f30ac386a79",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 73
+            },
+            "end": {
+              "line": 2,
+              "column": 77
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/2.workspace/cocos%20creator/slot/SlotMachine/assets/scripts/Global/constant.ts": {
+      "mTimestamp": {
+        "mtime": 1656620557441.9866,
+        "uuid": "b4069c7b-9d1a-41f2-b9cc-ab1fda39dcb5"
+      },
+      "chunkId": "61e893841d574b0dbb831f6157a58f92bc83c14e",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}
